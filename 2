@@ -13,4 +13,19 @@
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00730/jul00730jp-5.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacplWWcbiUN/FCUUMMexALSy/+yxIC99hiJ9AFMB1O0J2V78E50QVlMZvaManzMTtHB6vyWF44TcBg6Al3QUOg5/c=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLE+FS3yJeeZMDF90XUB7v0"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLE+FS3yJeeZMDF90XUB7v0"},
+{"name":"JUQ-030mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းရှိနေပီဖြစ်တဲ့သူမကို သူဌေးက အတွင်းရေးမှူးခန့်ပြီး ရုံးခန်းထဲမှာ ရှယ်တီးတဲ့ဇာတ်လမ်း..
+ကောင်မလေးကအရမ်းချေတာကွာ နမ်းခွင့်ရဖို့တောင်မနည်းကြိုးစားနေရတယ်
+မင်းသမီးနာမည် Aoi Ichino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00030/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacprhVqO8F8wOz7GzItfXYHJdCeawS/+KIuGkJmSC3IwVG0DvYz4/0SsGwP0/lhNo4e2yhJ9DmZHOE7A24h84C/DI=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P8/main/Picsart_23-11-30_02-09-43-783.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00030/juq00030pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231130_014038.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00030/juq00030jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00030/juq00030jp-9.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpsnPFjl9vVp/CPBFsQ7tmaKUprsVLB9i4FFsSPEyLE/VD+Hv+nluQRdQIQoeWSQJpIrogr+VWaz9txXD/9d9g14=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJTQUziMhxfMG4MdrYGQJiq"}]
