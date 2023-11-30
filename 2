@@ -28,4 +28,18 @@
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00030/juq00030jp-9.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpsnPFjl9vVp/CPBFsQ7tmaKUprsVLB9i4FFsSPEyLE/VD+Hv+nluQRdQIQoeWSQJpIrogr+VWaz9txXD/9d9g14=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJTQUziMhxfMG4MdrYGQJiq"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJTQUziMhxfMG4MdrYGQJiq"},
+{"name":"ROE-103mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကိုယ့်အဒေါ်ကိုဆေးခပ်ပြီး ကြံစည်ရာမှ အိမ်ပြန်လမ်းမရှိတော့တဲ့ကောင်လေးအကြောင်းကြည့်ရမှာပါ
+မင်းသမီးနာမည် Maki Tomoda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00103/playlist.m3u8",
+"download":"https://www.mediafire.com/file/5htj8do5m3aiuio/Roe-103sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P8/main/Picsart_23-12-01_00-40-11-082.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00103/roe00103pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231201_003822.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231201_003903.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/roe00103/roe00103jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/7t010a4ur5855ns/ROE-103hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLlxDxwa0x0c1t2lIVRRqaH"}]
