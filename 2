@@ -57,4 +57,19 @@ Karen က အိမ်ထောင်ရှင်မတယောက် ကလေ
 "photo5":"https://pics.dmm.co.jp/digital/video/pred00478/pred00478jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/k1185y6920hv16s/PRED-478hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLqYxa/nkHr2aSXMj/fpEKk"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLqYxa/nkHr2aSXMj/fpEKk"},
+{"name":"JUQ-451mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကြင်စဦးဘဝမှာနှစ်ယောက်တည်းနေချင်လို့ ခင်ပွန်းနဲ့ လက်ထပ်ပြီး တစ်နှစ်ကြာတဲ့အထိ ကလေးမယူသေးဘဲ ချစ်နေကြတဲ့ လင်မယားစုံတွဲလေး....
+တစ်နေ့မှာ ကျောင်းဆရာမဖြစ်တဲ့ဇနီးဖြစ်သူကို ကျောင်းသားဆိုးတစ်ယောက်က အကြပ်ကိုင်ပီး တီးခွင့်ပေးဖို့ တောင်းဆိုလာတဲ့အခါ.....
+မင်းသမီးနာမည် Rei Kimura",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00451/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacpogpx9FHkn+FMQ65MSSEI2TsWYL6RPUAADZA9FK+Mk3cmU/RyUm/Zp0IidahdiTjk5YTYz4d7dLWD3I9kwfC0Os=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P8/main/Picsart_23-12-03_01-35-44-406.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00451/juq00451pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231203_011116.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231203_011341.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00451/juq00451jp-2.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpk2xgor9IcuA5TattdS3ftX7211YDCYyFy3mkWU50BsyXxebCzR/rM4FHWR1neazbprVJMIlG7nmE/QPjFG2vNE=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIfQ2odBahXsxFJa+hM19xL"}]
