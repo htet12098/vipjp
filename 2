@@ -72,4 +72,18 @@ Karen က အိမ်ထောင်ရှင်မတယောက် ကလေ
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00451/juq00451jp-2.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpk2xgor9IcuA5TattdS3ftX7211YDCYyFy3mkWU50BsyXxebCzR/rM4FHWR1neazbprVJMIlG7nmE/QPjFG2vNE=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIfQ2odBahXsxFJa+hM19xL"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIfQ2odBahXsxFJa+hM19xL"},
+{"name":"ADN-329mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်ဂလာနှစ်ပတ်လည်နေ့မှာ ခိုးစားမဲ့သူမ...
+မင်းသမီးနာမည် Iroha Natsume",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00329/playlist.m3u8",
+"download":"https://www.mediafire.com/file/6x1dlgtxeoj01ai/Adn-329sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P8/main/Picsart_23-12-04_00-59-38-750.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00329/adn00329pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00329/adn00329jp-12.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231204_010801.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00329/adn00329jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/tq5dfjnowc65hm2/ADN-329hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miI9FfdKt0Up9wnCXZtxESDY"}]
