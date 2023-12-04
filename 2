@@ -86,4 +86,18 @@ Karen က အိမ်ထောင်ရှင်မတယောက် ကလေ
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00329/adn00329jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/tq5dfjnowc65hm2/ADN-329hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miI9FfdKt0Up9wnCXZtxESDY"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miI9FfdKt0Up9wnCXZtxESDY"},
+{"name":"HMN-489mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းကြောင့် ကုမ္ပဏီမှာ မော်ဒယ်ဝင်လုပ်ပေးရပါတော့မယ့် ဇနီးဖြစ်သူမီနာလေးကို ကုမ္ပဏီရဲ့လူယုတ်မာမန်နေဂျာက အကွက်ဆင်ပြီးရှယ်တီးတဲ့ဇာတ်လမ်း...
+မင်းသမီးနာမည် Mina Kitano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00489/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacpsJ3tp8U4mNyuMVz9bbfSNk8oVvq61PaYleRyh+YwEdkZI7TMPRSovNApEHU8cGMmbushkk+jqSOWVDgUy3L1eY=",
+"photo1":"https://github.com/minimyanmar/P8/blob/main/Picsart_23-12-05_02-17-36-555.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00489/hmn00489pl.jpg",
+"photo3":"https://github.com/minimyanmar/P8/blob/main/IMG_20231205_020930.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/P8/blob/main/IMG_20231205_021015.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/P8/blob/main/IMG_20231205_021550.jpg?raw=true",
+"dapp":"h4g+2WfmqCmaO05URmacptoAiEp0firqyH1R0oJFyA6vIeKnxffM1jTj+bxzyo2rcUfZhYl6SQkSIfhugY1uOwED2OBMrDWudsrsjZW6rdY=",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJYB2TWH4mzqN9RDhFYoAyQ"}]
