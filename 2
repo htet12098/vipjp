@@ -99,5 +99,5 @@ Karen က အိမ်ထောင်ရှင်မတယောက် ကလေ
 "photo4":"https://github.com/minimyanmar/P8/blob/main/IMG_20231205_021015.jpg?raw=true",
 "photo5":"https://github.com/minimyanmar/P8/blob/main/IMG_20231205_021550.jpg?raw=true",
 "dapp":"h4g+2WfmqCmaO05URmacptoAiEp0firqyH1R0oJFyA6vIeKnxffM1jTj+bxzyo2rcUfZhYl6SQkSIfhugY1uOwED2OBMrDWudsrsjZW6rdY=",
-"candownload":"",
+"candownload":"ll",
 "wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJYB2TWH4mzqN9RDhFYoAyQ"}]
