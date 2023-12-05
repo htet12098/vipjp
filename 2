@@ -100,4 +100,20 @@ Karen က အိမ်ထောင်ရှင်မတယောက် ကလေ
 "photo5":"https://github.com/minimyanmar/P8/blob/main/IMG_20231205_021550.jpg?raw=true",
 "dapp":"h4g+2WfmqCmaO05URmacptoAiEp0firqyH1R0oJFyA6vIeKnxffM1jTj+bxzyo2rcUfZhYl6SQkSIfhugY1uOwED2OBMrDWudsrsjZW6rdY=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJYB2TWH4mzqN9RDhFYoAyQ"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJYB2TWH4mzqN9RDhFYoAyQ"},
+{"name":"JUQ-265mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Anal ဖင်ချတာလေးလည်း ပါရမယ် ဝတ်မှုံရွှေရည်လိုလည်း နှာသံစင်းစင်း နှုတ်ခမ်းပါးပါးလေး ကြည့်ချင်တဲ့ဘော်ဒါတို့အတွက်
+ဇာတ်လမ်းအညွှန်းကတော့ Jun ယွကျားက ကုမ္ပဏီတခုက ဌာနခွဲမှူး အဲ့မှာအလုပ်ကြိုးစားတဲ့ ဂျူနီယာလေးရှိတယ် တရက် စရင်းနောက်ရင်း အဲ့ကောင်လေးရဲ့ လျှိုဝှက်ချက်ကြီးတခုကို ကုမ္ပဏီ GP Chat ထဲပို့မိသွားခဲ့တော့
+Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့ မိန်းမဖြစ်သူကမေးမှ သိရတော့ Decensored နဲ့ခံစားလိုက်ပါအုံး
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00265/playlist.m3u8",
+"download":"https://www.mediafire.com/file/1064g678odxl8vd/Juq-265sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P8/main/Picsart_23-12-06_00-31-42-907.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00265/juq00265pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231206_002931.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00265/juq00265jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00265/juq00265jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/rnihgww1ixz78kq/JUQ-265hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miL2aOrtCxgn3F1BeaF38anp"}]
