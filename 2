@@ -116,4 +116,20 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00265/juq00265jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/rnihgww1ixz78kq/JUQ-265hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miL2aOrtCxgn3F1BeaF38anp"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miL2aOrtCxgn3F1BeaF38anp"},
+{"name":"ADN-516mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ထောင်ရေးတစ်ခုမှာ အချစ်နဲ့ငွေရှိရုံနဲ့ မရဘူးဆိုတာ ပုံဖော်ရိုက်ကူးထားတဲ့ဇာတ်လမ်းလေးပါ
+
+မိန်းမ‌ရဲ့ နှလုံးသားကိုအရယူဖို့ဆို အချစ်နဲ့ ငွေထက် အရေးကြီးတဲ့ အရာတစ်ခုရှိနေပါသေးသည်
+မင်းသမီးနာမည် Miu Shiromine",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00516/playlist.m3u8",
+"download":"https://www.mediafire.com/file/r3ople2xtq8amal/Adn-516sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P8/main/Picsart_23-12-07_01-50-12-163.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00516/adn00516pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231207_013827.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00516/adn00516jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00516/adn00516jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/dml5c5xq5h3pwo1/Adn-516hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
