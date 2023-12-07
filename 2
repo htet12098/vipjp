@@ -132,4 +132,20 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00516/adn00516jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/dml5c5xq5h3pwo1/Adn-516hd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"ADN-517mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အစ်ကိုဆုံးသွားတော့ ကျန်ခဲ့တဲ့ဇနီးချောလေးကို 
+ညီဖြစ်သူက မတရားသိမ်းပိုက်ပီး ရှယ်တီးတဲ့ဇာတ်လမ်း
+လုံးဝမိုက်တယ်ကွာ
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00517/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacpqFfg7ZPgliGtbiNE47zpq3dOFtCmIW086JIsNhLKmCn/k8GNcMZlUmdI/SVRJPYFivMjaowpNMZyI1E0A93+ds=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P8/main/Picsart_23-12-07_23-55-34-374.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00517/adn00517pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231207_234021.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231207_214330.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231207_213945.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpp37++s8m6GjyA2U8PV7R1Tns3LMsRI2r8z5h4SOK9tVb5wDdbYEI8nnvWKw1EZQd3pNIMgIEw6ZK/Lhd0DpPs8=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKmzxH/C2fjpS6p8CRCTrkW"}]
