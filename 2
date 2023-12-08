@@ -148,4 +148,21 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231207_213945.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpp37++s8m6GjyA2U8PV7R1Tns3LMsRI2r8z5h4SOK9tVb5wDdbYEI8nnvWKw1EZQd3pNIMgIEw6ZK/Lhd0DpPs8=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKmzxH/C2fjpS6p8CRCTrkW"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKmzxH/C2fjpS6p8CRCTrkW"},
+{"name":"SAME-052mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တောကနေမြို့တက်လာပြီး အစ်ကိုရဲ့မိန်းမကို ဆင်ကြံကြံတဲ့ဇာတ်ကားကောင်းလေးဖြစ်ပါတယ်
+တိုကျိုမြို့ကို အလုပ်ရှာဖို့ တက်လာပြီး အစ်ကို့အိမ်မှာကပ်နေရတယ်
+အစ်ကိုဖြစ်သူအလုပ်ကိစ္စနဲ့ခရီးရှည်ထွက်နေတုန်း မရီးဖြစ်သူ အာသာဖြေတာတွေ့သွားပြီး စိတ်မထိန်းနိုင်ပဲဖြစ်သွားတယ်
+ဒီအတိုင်းလည်း ဝင်မတိုးရဲတာနဲ့ ဝိုင်ထဲမှာ ဆေးခတ်ပြီး အကြီးကြီးကြံပါတော့တယ်
+မင်းသမီးနာမည် Hikari Ninomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/sam/same00052/playlist.m3u8",
+"download":"https://www.mediafire.com/file/tgqf31hmzkllppa/Same-052sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-09_00-47-30-749.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00052/same00052pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231209_004640.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231209_004615.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/same00052/same00052jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/ou7okdr979nrywu/SAME-052hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIBV9jswCDgp8BSYpvxZJ5E"}]
