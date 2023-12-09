@@ -165,4 +165,19 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/same00052/same00052jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/ou7okdr979nrywu/SAME-052hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIBV9jswCDgp8BSYpvxZJ5E"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIBV9jswCDgp8BSYpvxZJ5E"},
+{"name":"DASS-246mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်္ဂလာဆောင်ခါနီး ခြေချင်းဝတ်ခေါက်သွားလို့ အနှိပ်သည်ခေါ်နှိပ်ရာမှာ ရင်နာစရာဇာတ်လမ်းဖြစ်လာပါတော့တယ်
+အနှိပ်သည်ရဲ့ အတို့အထိတွေအောက်မှာညွှန့်ဆင်းခဲ့ရတဲ့ ကောင်မလေးနဲ့ ယူခါနီး ပိုက်ဘောမိသွားတဲ့ကောင်လေးတို့ရဲ့ ရင်နှစ်ဖွယ်ဇာတ်လမ်းလေးကို ခံစားရမှာဖြစ်ပါတယ်
+မင်းသမီးနာမည် Shiori Kuraki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dass00246/playlist.m3u8",
+"download":"https://www.mediafire.com/file/yoq88atffb1kphf/Dass-246sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-10_00-39-08-663.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dass00246/dass00246pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dass00246/dass00246jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231210_003353.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dass00246/dass00246jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/0ymsav034qz72u0/DASS-246hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKWIT/bKEC/ui3p7eDeD5Qh"}]
