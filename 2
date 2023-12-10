@@ -180,4 +180,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/dass00246/dass00246jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/0ymsav034qz72u0/DASS-246hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKWIT/bKEC/ui3p7eDeD5Qh"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKWIT/bKEC/ui3p7eDeD5Qh"},
+{"name":"NKKD-303mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ညီလေးရဲ့ ဇနီးကို ရှယ်တီးတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Yui Hatano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nkk/nkkd00303/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ow8ihstn8py1lq6/Nkkd-303sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-11_01-34-37-426.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nkkd00303/nkkd00303pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231211_012712.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nkkd00303/nkkd00303jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nkkd00303/nkkd00303jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/a7zxzr7ytuu5pm8/Nkkd-303hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ3xKRejP4PNly12AyHMUGr"}]
