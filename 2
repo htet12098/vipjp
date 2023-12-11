@@ -194,4 +194,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/nkkd00303/nkkd00303jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/a7zxzr7ytuu5pm8/Nkkd-303hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ3xKRejP4PNly12AyHMUGr"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ3xKRejP4PNly12AyHMUGr"},
+{"name":"PPPE-156mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ညီမ မသိအောင် ညီမရဲ့ကောင်လေးကိုဆွဲစားပါတယ်ဆိုမှ ညီမဖြစ်သူက သိသွားပြီး အကွဲအပြဲတွေဖြစ်လာပါတော့တယ်
+မင်းသမီးနာမည် Riho Matsumoto",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/ppp/pppe00156/playlist.m3u8",
+"download":"https://www.mediafire.com/file/voleq2bitoz377q/Pppe-156sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-12_00-36-32-568.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pppe00156/pppe00156pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pppe00156/pppe00156jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pppe00156/pppe00156jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pppe00156/pppe00156jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/i69lhq0clrj5hli/PPPE-156hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKKYeI7vq3CE0NSdH1oxQfP"}]
