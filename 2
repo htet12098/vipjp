@@ -208,4 +208,35 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/pppe00156/pppe00156jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/i69lhq0clrj5hli/PPPE-156hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKKYeI7vq3CE0NSdH1oxQfP"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKKYeI7vq3CE0NSdH1oxQfP"},
+{"name":"SSNI-716mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်္ဂလာပွဲစီစဉ်သူကောင်မလေးနဲ့ ကျောင်းတုန်းက ကြိတ်ကြိုက်ခဲ့ရတဲ့ စီနီယာအစ်ကိုကြီးတို့ရဲ့ဇာတ်လမ်းလေးဖြစ်ပါတယ်
+မစ္စအိန်ဂျယ်တစ်ယောက် မင်္ဂလာပွဲလာအပ်တဲ့အတွဲက ကြိတ်ကြွေခဲ့ရတဲ့အစ်ကိုကြီးဆိုတာသိလိုက်ရတော့ အရမ်းဝမ်းနည်းသွားတယ်
+ဒီလိုနဲ့မင်္ဂလာပွဲအတွက်လိုအပ်တာတွေလုပ်ပေးရင်း...
+မင်းသမီးနာမည် Moe Amatsuka",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssn/ssni00716/ssni00716_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/741m52rmbkpde81/Ssni-716sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-13_00-37-13-018.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssni00716/ssni00716pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssni00716/ssni00716jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssni00716/ssni00716jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssni00716/ssni00716jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/9voj4kmzuvzdggh/SSNI-716hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKche1+oW/nw2mb6dNlAV37"},
+{"name":"NKKD-256mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မြို့ကနေ တောရွာလေးသို့ ပြောင်းရွေ့လာခဲ့တဲ့ အရမ်းချစ်ကြသော ဇနီးမောင်နှံ..
+ခင်ပွန်းဖြစ်သူအလုပ်သွားတဲ့အချိန်မှာတော့ ကျန်ခဲ့တဲ့ ဇနီး‌ချောမြို့သူလေးကို လယ်သမားတစ်ယောက်က အိမ်ပေါ်တက်ပီးရှယ်တီး.....
+မင်းသမီးနာမည် Nene Tanaka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nkk/nkkd00256/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacplOPm8GiQiFc2HCd4b6EGdeQiW7UkvIHlL55u9O0n2kHvCq/JWaPspJQYbvf1NSfcVm2LmlDLyBIvGs+mz9pgn8=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-13_01-13-04-417.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nkkd00256/nkkd00256pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231213_005949.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231213_005731.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nkkd00256/nkkd00256jp-11.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpvg8Oo64YdP1ZL+LP6hBoy1u4E4WWpucjXbrwlmsgkWv7WB+2ni3ji4L4BRqCSLXrCxSpIyxD+otbo9nc0IX/Cc=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJvyXdwkKvv/ILUaeLQRDXq"}]
