@@ -239,4 +239,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/nkkd00256/nkkd00256jp-11.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpvg8Oo64YdP1ZL+LP6hBoy1u4E4WWpucjXbrwlmsgkWv7WB+2ni3ji4L4BRqCSLXrCxSpIyxD+otbo9nc0IX/Cc=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJvyXdwkKvv/ILUaeLQRDXq"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJvyXdwkKvv/ILUaeLQRDXq"},
+{"name":"IPX-627mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခယ်မလေးဖြစ်လာမယ့်သူနဲ့ ဖြစ်ခဲ့ဖူးတဲ့ဇာတ်လမ်းတစ်ပုဒ်
+မင်းသမီးနာမည် Karen Kaede",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/i/ipx/ipx00627/ipx00627_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/q2g2q9fywhsnqy5/Ipx-627sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-14_01-21-17-873.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00627/ipx00627pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipx00627/ipx00627jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00627/ipx00627jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00627/ipx00627jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/kfit0io12o9rna9/IPX-627hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
