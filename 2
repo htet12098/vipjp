@@ -253,4 +253,22 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00627/ipx00627jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/kfit0io12o9rna9/IPX-627hd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"JUQ-470mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ညားခါစ ဇနီးအသစ်စက်စက်လေးကို ဟန်းနီးမွန်းရောက်မှရှယ်တီးမယ်လို့ ခင်ပွန်းက စိတ်ကူးယဉ်ထားခဲ့ပေမယ့် 
+ဟိုတယ်ဝန်ထမ်းက အရင်ဦးသွားတဲ့ဇာတ်လမ်းလေး
+
+ဇာတ်လမ်းရော မင်းသမီးပါ ရှယ်မိုက်
+မင်းသမီးနာမည် Sayuri Hayama
+ဒီလထဲမှာမှထွက်ရှိလာတဲ့ အထူးစပယ်ရှယ်ကားလေးပါ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00470/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacpgujOJpJEcbnLCF1cRAosMUD8NPWsSzZtDNCnu4kdksK97kPQUpT0Bqh7w4eptZkRChB9Gq26g0lr5yuJCX6R/8=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-15_00-50-55-920.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00470/juq00470pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231215_001045.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231215_002322.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231215_001230.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpml9LLpRUo8AmCrSorl1GEZXoCTjvDQCol5Sr3Gbnijf/zJ1NmzDTapfD5NvFaauxhdBtgN6XY9Jby8SXmXeLZk=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ6wfnwPJgxJaja5qnpdF18"}]
