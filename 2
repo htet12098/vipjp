@@ -271,4 +271,19 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231215_001230.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpml9LLpRUo8AmCrSorl1GEZXoCTjvDQCol5Sr3Gbnijf/zJ1NmzDTapfD5NvFaauxhdBtgN6XY9Jby8SXmXeLZk=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ6wfnwPJgxJaja5qnpdF18"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ6wfnwPJgxJaja5qnpdF18"},
+{"name":"IPX-764mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အရမ်း ဟော်နီ ဖြစ်တဲ့ စုမူဂီလေး
+ဦးနဲ့သမီး ရှယ်တီး
+မင်းသမီးနာမည် Tsumugi Akari",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00764/playlist.m3u8",
+"download":"https://www.mediafire.com/file/rwdravq8i9cgmv2/Ipx-764sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-16_01-40-41-388.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00764/ipx00764pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipx00764/ipx00764jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00764/ipx00764jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00764/ipx00764jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/3nlp36ulc873icj/IPX-764hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLMN9E4x2FTw69/WSvkAwqZ"}]
