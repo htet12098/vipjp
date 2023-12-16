@@ -286,4 +286,19 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00764/ipx00764jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/3nlp36ulc873icj/IPX-764hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLMN9E4x2FTw69/WSvkAwqZ"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLMN9E4x2FTw69/WSvkAwqZ"},
+{"name":"SSIS-095mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းမှာ လေ့ကျင့်ခန်းခေါင်းဆောင်က ရှယ်တီးတာကို ခံလိုက်ရတဲ့ ကျောင်းသူလေး 
+ငြင်းချိန်တောင်မရလိုက်တဲ့ ဘေဘီလေးကို အားပေးလိုက်ပါအုံး
+မင်းသမီးနာမည် Izuna Maki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00095/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ylwz33i1sj494w2/Ssis-095sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-17_00-51-07-660.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00095/ssis00095pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231217_004139.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231217_004821.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231217_004734.jpg",
+"dapp":"https://www.mediafire.com/file/ofjy3taknjmzkk5/SSIS-095hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLJknbQfmcacC4MxwxRrgf3"}]
