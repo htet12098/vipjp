@@ -301,4 +301,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231217_004734.jpg",
 "dapp":"https://www.mediafire.com/file/ofjy3taknjmzkk5/SSIS-095hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLJknbQfmcacC4MxwxRrgf3"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLJknbQfmcacC4MxwxRrgf3"},
+{"name":"JUQ-473mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နေစရာမရှိလို့ သူငယ်ချင်းအိမ်မှာ တစ်လ‌လောက်နေရင်း သူငယ်ချင်းရဲ့မိန်းမကို ရှယ်တီးသွားတဲ့ကျော်ကြီး...
+မင်းသမီးနာမည်  Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00473/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacpg7NcVfCniVoK9EEZseET0irlJ9nGDib0lvMCBY0Ah8StNoYE5F1gFvOc5M7HbCHziee3N0O3BbqgfG4mn/tFVc=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-18_00-17-02-833.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00473/juq00473pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00473/juq00473jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00473/juq00473jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00473/juq00473jp-5.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpjcKNveazl0PmaZgPNXDTreK9MqQBtVJZzYPJryB61aYnczyK4CITYVEbjBmf8MQzhTUr04xB8lrqzhcAJmN6+Y=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLl61iDyZLIzaifhhqnsD3+"}]
