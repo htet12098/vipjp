@@ -315,4 +315,19 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00473/juq00473jp-5.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpjcKNveazl0PmaZgPNXDTreK9MqQBtVJZzYPJryB61aYnczyK4CITYVEbjBmf8MQzhTUr04xB8lrqzhcAJmN6+Y=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLl61iDyZLIzaifhhqnsD3+"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLl61iDyZLIzaifhhqnsD3+"},
+{"name":"JUL-429mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နာအိုဖင်ကြီးကို စွဲလန်းလွန်းလို့
+စက်ဘီးဖင်ထိုင်ခုံတွေပါ ဖြုတ်ခိုးပြီးမှန်းတဲ့ကောင်လေးနဲ့ ခင်ပွန်းက မတီးပေးလို့ ဆာနေတဲ့နာအို...
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00429/jul00429_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/yf6002qh9xa6pft/Jul-429sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-19_21-04-03-539.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00429/jul00429pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231219_205512.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231219_205604.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00429/jul00429jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/219gnc5q3kpi0tb/Jul-429hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
