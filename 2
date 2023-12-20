@@ -330,4 +330,33 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00429/jul00429jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/219gnc5q3kpi0tb/Jul-429hd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"SSIS-218mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အပြစ်ကင်စင်းတဲ့ တပည့်မလေး
+ဆယ်နှစ်အကြာမှာ ဘလိုတွေပြောင်းလဲသွားမလဲ
+မင်းသမီးနာမည် Sayaka Otoshiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00218/playlist.m3u8",
+"download":"https://www.mediafire.com/file/edv103ydgex9vcd/Ssis-218sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-21_01-05-28-651.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00218/ssis00218pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231221_010215.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231221_010239.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00218/ssis00218jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/ttqf5triog0hsfc/SSIS-218hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-862mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကြော်ညာရိုက်တဲ့ကုမ္ပဏီထင်ပြီး အလုပ်ဝင်လျှောက်ပီးမှ အောကားရိုက်တဲ့ ကုမ္ပဏီဖြစ်နေလို့ရှယ်တီးခံလိုက်ရတဲ့ အိမ်ထောင်သည်မလေး...
+မင်းသမီးနာမည် Minori Hatsune",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00862/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacpiSzLe9weN/cku7osG92mt2kZUTFnjxahErP0JMvXAjVVSohN370NnV3GE3eGtUhpxboJL3zGEJkgxmQPgr99QQ=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-21_01-56-00-347.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00862/meyd00862pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231221_012845.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00862/meyd00862jp-2.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231221_013056.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpvg8Oo64YdP1ZL+LP6hBoy1MO9BdLmqzmcQnEBMzm6SZRw43Tahj6+F+ywRrE5G4UOgX7tUBDbdDZANXP9TlPyc=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKT4s4iwkKkfsK97+AK36Hc"}]
