@@ -359,4 +359,20 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231221_013056.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpvg8Oo64YdP1ZL+LP6hBoy1MO9BdLmqzmcQnEBMzm6SZRw43Tahj6+F+ywRrE5G4UOgX7tUBDbdDZANXP9TlPyc=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKT4s4iwkKkfsK97+AK36Hc"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKT4s4iwkKkfsK97+AK36Hc"},
+{"name":"HMN-507mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်ခရီးသွားရင်း အိမ်ပြန်ဖို့ရထားမမှီတော့လို့ ကျော်ကြီးနဲ့ ဟိုတယ်မှာ တစ်ခန်းတည်းအတူတည်းရတော့မယ့် မာနခဲလေး Mina Kitano
+
+ဒီလမှထွက်ရှိလာတဲ့ ဇာတ်ကားသစ်
+မင်းသမီးနာမည် Mina Kitano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00507/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacps+Pcx1yWkrKfcZGpdmcx1hzd+qGYQBxgMf2+OGTgotEmhY1mVcajsSGXN/Jf+tO2SqB9HYx9AVzL5EfpRg1gTA=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-22_01-12-48-456.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00507/hmn00507pl.jpg",
+"photo3":"https://github.com/minimyanmar/P9/blob/main/IMG_20231222_010235.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/P9/blob/main/IMG_20231222_010455.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/P9/blob/main/IMG_20231222_010758.jpg?raw=true",
+"dapp":"h4g+2WfmqCmaO05URmacpkrHkYODy+Bfmn0PvmozlraXZl9MHx0h972/HTiEs6VByAF2cjuaUFZrk6yVMZ1chiDGvUYrnevCCLT+YUVE49s=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miL9HioLCBb7fIV3JhEbYbp2"}]
