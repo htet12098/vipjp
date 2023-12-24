@@ -391,4 +391,19 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/nsfs00232/nsfs00232jp-14.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpmR7ylbmjL/27Cdcnks3AYWYx43TI9FkMPFq6HIBaOGhRBWTi2t71+aIDST2WRZwYp+mFJX8BaQA5kTEdKEf1w8=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIx4jzSurQJSNpPVEARL5ld"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIx4jzSurQJSNpPVEARL5ld"},
+{"name":"SAME-082mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေနဲ့သမီးနှစ်ယောက်တည်း ဘဝကိုအေးချမ်းစွာ ဖြတ်သန်းနေရာကနေ သူစိမ်းဦးလေးကြီးတစ်ယောက်ကို ယုံကြည်မိခဲ့ပါတယ်
+ဦးလေးကြီးဟာ သူတို့ထင်သလို လူကောင်းမဟုတ်ဘဲ  အမေကို သမီးရှေ့မှာတင် ရှယ်တီးတာ....
+မင်းသမီးနာမည် Miho Tono / Lala Kudo",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/sam/same00082/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacpqWlJlkGk6iYtyIoSe5bJA2UcQry4izKNIFWHQT0mTAg9Dw/kCcJ1sAqjz29/M11cYoro67pe8M69sAdc1d/AVA=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-24_19-43-14-298.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00082/same00082pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/same00082/same00082jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/same00082/same00082jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/same00082/same00082jp-3.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpnjvEiaj4PePdpnhLhP9wpwVZsB1ZfBV5jUc+2rg+SMjJBa/b7yRHvCmPmpciGxsozF/rx68XEJlMeyHHiy9H5Q=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ1QC61Q5+V2cnLWxKq8Zrx"}]
