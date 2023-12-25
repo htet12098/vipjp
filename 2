@@ -406,4 +406,19 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/same00082/same00082jp-3.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpnjvEiaj4PePdpnhLhP9wpwVZsB1ZfBV5jUc+2rg+SMjJBa/b7yRHvCmPmpciGxsozF/rx68XEJlMeyHHiy9H5Q=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ1QC61Q5+V2cnLWxKq8Zrx"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ1QC61Q5+V2cnLWxKq8Zrx"},
+{"name":"ROE-162mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းရဲ့အမေကိုမှချစ်မိသွားတဲ့ မောင်ဇော်
+အချစ်ဆိုတာ မချစ်မိအောင်ထိန်းချုပ်လေ ပိုမိုကြီးထွားလာလေ အရာမျိုးဆိုတော့ ဘာတွေဆက်ဖြစ်မလဲ
+မင်းသမီးနာမည် Yumi Anno",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00162/playlist.m3u8",
+"download":"https://www.mediafire.com/file/hp1yhrrbyits5jo/Roe-162sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-26_00-45-45-322.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00162/roe00162pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231226_004314.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/roe00162/roe00162jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/roe00162/roe00162jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/mlm2byxkbwxxeua/ROE-162hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIadF03VSbZtb0pHTjDMap1"}]
