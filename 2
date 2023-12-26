@@ -421,4 +421,20 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/roe00162/roe00162jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/mlm2byxkbwxxeua/ROE-162hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIadF03VSbZtb0pHTjDMap1"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIadF03VSbZtb0pHTjDMap1"},
+{"name":"FSDSS-668mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လက်ထပ်ခါနီးအတွင်းရေးမှူးမလေးကို တစ်ဖက်သတ်ချစ်နေတဲ့သူဌေးက အကွက်ဆင်ပီး ရှယ်တီးတဲ့ဇာတ်လမ်း
+
+စော်က ရှယ်လန်းတယ်
+မင်းသမီးနာမည် Natsu Igarashi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1fs/1fsdss668/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacpiSzLe9weN/cku7osG92mt3UX7MK6y7nurMaR/nihDVU5yqEc+D07jndVhxEVZjYEfeeOfOQWZzkvS6uTyPU7Ew=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-27_01-31-09-312.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1fsdss00668/1fsdss00668pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231227_010716.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231227_011941.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00668/1fsdss00668jp-3.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpk7H4NqFsOctJvlfw9JjJy4r60EmiVABPN3R3jk6l1wambLBP9NCVWoHN0Jqrfi3+l9wKl4rZYKWcQQaT0os2eM=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLMo3EANaplOVpIY5wqc1s6rCRb0QPJEechbUKGhhha6A=="}]
