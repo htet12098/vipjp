@@ -437,4 +437,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00668/1fsdss00668jp-3.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpk7H4NqFsOctJvlfw9JjJy4r60EmiVABPN3R3jk6l1wambLBP9NCVWoHN0Jqrfi3+l9wKl4rZYKWcQQaT0os2eM=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLMo3EANaplOVpIY5wqc1s6rCRb0QPJEechbUKGhhha6A=="}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLMo3EANaplOVpIY5wqc1s6rCRb0QPJEechbUKGhhha6A=="},
+{"name":"MIDV-191mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အောင်မြင်ဖို့အတွက်ဆို ဘာမဆိုလုပ်မဲ့ အီမီလေးကိုမြင်တွေ့ရမှာပါ
+မင်းသမီးနာမည် Eimi Fukada",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00191/playlist.m3u8",
+"download":"https://www.mediafire.com/file/sxido7mgt5dbnsz/Midv-191sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-28_00-29-01-461.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00191/midv00191pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231228_002815.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/midv00191/midv00191jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/midv00191/midv00191jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/em1s4c07czwauyu/MIDV-191hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ2IZW2Lbgtepvlj4Zd3INl"}]
