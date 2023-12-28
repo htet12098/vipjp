@@ -451,4 +451,19 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/midv00191/midv00191jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/em1s4c07czwauyu/MIDV-191hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ2IZW2Lbgtepvlj4Zd3INl"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ2IZW2Lbgtepvlj4Zd3INl"},
+{"name":"IPX-327mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇနီးချောလေးယူထားပေမယ့် ခင်ပွန်းက အလုပ်နဲ့ပဲအချိန်ကုန်နေလို့ မိန်းမကိုတီးပေးဖို့ အချိန်မရှိဘူးဖြစ်နေပါတယ်..
+ဒါကိုယောက္ခထီးကြီးသိသွားတဲ့အခါ ‌ချွေးမကို အကွက်ဆင် ရှယ်တီးလိုက်တဲ့ဇာတ်လမ်း...
+မင်းသမီးနာမည် Nanami Misaki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/i/ipx/ipx00327/ipx00327_dmb_w.mp4",
+"download":"h4g+2WfmqCmaO05URmacpml9LLpRUo8AmCrSorl1GEYGCs8zHxsaixHxunGMM2Jfl4gU6ieDLrkjJ9Thq8UvSzDYtjwukUajqRcVGa1GVYk=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-29_01-42-11-410.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00327/ipx00327pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231229_012144.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231229_012645.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00327/ipx00327jp-7.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpqFfg7ZPgliGtbiNE47zpq2wHB6xv72acuz1tLrOId3a25XjRXx6yFWx4XkISXhEgc4rrg3FJ3Hc82MdwwWNf54=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIRXn1t5y/3bBDRHKq/WWvg"}]
