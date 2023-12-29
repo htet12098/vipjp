@@ -466,4 +466,20 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00327/ipx00327jp-7.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpqFfg7ZPgliGtbiNE47zpq2wHB6xv72acuz1tLrOId3a25XjRXx6yFWx4XkISXhEgc4rrg3FJ3Hc82MdwwWNf54=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIRXn1t5y/3bBDRHKq/WWvg"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIRXn1t5y/3bBDRHKq/WWvg"},
+{"name":"ADN-507mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကလေးအရမ်းလိုချင် လင်မယားနှစ်ယောက်မှာ
+ယောကျာ်းဖစ်သူက မစွမ်းဆောင်နိုင်မှန်း သိရသောအခါ
+ဇနီးဖြစ်သူကို ကူညီချင်တဲ့သူဘယ်လောက်များလဲဆိုတာ ကြည့်ရှုရမှာပါ
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00507/playlist.m3u8",
+"download":"https://www.mediafire.com/file/dzquu7n1d9jzv88/Adn-507sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-30_00-51-49-393.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00507/adn00507pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231230_004850.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00507/adn00507jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00507/adn00507jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/gz7d6jm1w8hdrwk/adn-507hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLb6dKz7HfYgKftwKgOu2Ma"}]
