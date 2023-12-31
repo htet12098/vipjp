@@ -497,4 +497,20 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231231_163546.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpml9LLpRUo8AmCrSorl1GEZJLerTmFwsjkQIJ0cQTfcwydm3XxIqNaSgwpvQIFHkep6LhLuN7QMj11JW4blYby0=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miITS1ymiyPN6Y5XsfFPwrat"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miITS1ymiyPN6Y5XsfFPwrat"},
+{"name":"MIDV-494mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကြိုးချင်းထာ ကြိုးချင်းငြိ အိုးချင်းထားအိုးချင်ထိ တဲ့ဇာတ်ကားလေးဖြစ်ပါတယ်
+အချိန်ပိုင်းအလုပ်အတူတူတွဲလုပ်ရင်း အချိန်တွေကြာလာတော့ သံယောဇဉ်တွေဖြစ်လာခဲ့တဲ့ သူတို့နှစ်ယောက်....
+ဇာတ်လမ်းပုံစံထက် လက်တွေ့ဖြစ်နေသလို ကင်မရာတွေတပ်ပြီး ရိုက်ထားတဲ့ဇာတ်ကားလေးဖြစ်လို့ တစ်မျိုးတော့ဆန်းနေမှာ အမှန်ပါပဲ
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00494/playlist.m3u8",
+"download":"https://www.mediafire.com/file/q06lbf24gnlnvzu/Midv-494sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_24-01-01_00-17-08-795.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00494/midv00494pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240101_001510.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/midv00494/midv00494jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/midv00494/midv00494jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/fnuui5lokpq867e/MIDV-494hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKzNEX6c+anO/ixbWBfUT7D"}]
