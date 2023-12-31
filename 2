@@ -482,4 +482,19 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00507/adn00507jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/gz7d6jm1w8hdrwk/adn-507hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLb6dKz7HfYgKftwKgOu2Ma"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLb6dKz7HfYgKftwKgOu2Ma"},
+{"name":"ADN-239mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျေးဇူးတင်‌တဲ့အ‌နေနဲ့ အိမ်ခေါ်ပီး ထမင်းကျွေးမိတာကို 
+ဇနီးချောလေးကို ရှယ်တီးသွားတဲ့ဇာတ်လမ်းလေး...
+မင်းသမီးနာမည် Mizuki Yayoi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/adn/adn00239/adn00239_dmb_w.mp4",
+"download":"h4g+2WfmqCmaO05URmacppKUA8rfcbeEq9GwQITR75gkRkAuXOs78DlXSsztwQi/amdj/GriEflZiM2/eBDgH0Fq+pSLcaJL5SM7ZgR5McE=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_23-12-31_17-04-25-990.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00239/adn00239pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231231_163024.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231231_163400.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231231_163546.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpml9LLpRUo8AmCrSorl1GEZJLerTmFwsjkQIJ0cQTfcwydm3XxIqNaSgwpvQIFHkep6LhLuN7QMj11JW4blYby0=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miITS1ymiyPN6Y5XsfFPwrat"}]
