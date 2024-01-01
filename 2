@@ -513,4 +513,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/midv00494/midv00494jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/fnuui5lokpq867e/MIDV-494hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKzNEX6c+anO/ixbWBfUT7D"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKzNEX6c+anO/ixbWBfUT7D"},
+{"name":"MIDV-586mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကောင်မလေးရဲ့ အစ်မကို ရှယ်ကြုံးတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည်  Mina Kitano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00586/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p3w40o7qMAe7hSdUo/3nmevdEyf4U0F+TFy+/50HNS/zz3Xxauj1eFqf0R1NkFTz3zh9oOsJmleFzmeDGzLtIN4=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_24-01-02_01-41-54-212.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00586/midv00586pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240102_012521.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240102_012623.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240102_012738.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p1ppUz6LC5RwSA5CpQq6+TZMCCswO5hSzGRCyHdA96yAkrQcY1dZ58IOyu+QAVlc2PClqpQys04z12boCxemstU=",
+"candownload":"lI",
+"wcode":"တစ်"}]
