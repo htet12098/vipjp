@@ -527,4 +527,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240102_012738.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p1ppUz6LC5RwSA5CpQq6+TZMCCswO5hSzGRCyHdA96yAkrQcY1dZ58IOyu+QAVlc2PClqpQys04z12boCxemstU=",
 "candownload":"lI",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"MVSD-408mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းနဲ့အဆင်မပြေလို့ စိတ်ဖိဆီးမှုတွေ‌ လျော့ချဖို့ ဆရာဝန်ဆီသွားပြခါမှ ဆရာက ဖင်ချတာခံလိုက်ရတဲ့ အကိတ်မလေး....
+မင်းသမီးနာမည် Maria Nagai",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mvs/mvsd00408/mvsd00408_dmb_w.mp4",
+"download":"wGVEvd9lu7EdHPW+18o9p1DAUodCILADmz+KIc5oOXHjDAWT3zBqcHy/MgKdc13gVTSRKi4sHsCgqqRYRSHaQP8Rb67X2IT3Bdh+TgsgUmA=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_24-01-03_00-48-06-994.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mvsd00408/mvsd00408pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mvsd00408/mvsd00408jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mvsd00408/mvsd00408jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mvsd00408/mvsd00408jp-6.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p+aF0b0U/FufHNoQN+6sM3l866wR7v54qdp24IOooNb5ZMNSN/oMJlwsWeR4UChluMTBqBAmqPjQAVaAmt2AT3c=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJcPTxA6frh95MqT51iwEMI"}]
