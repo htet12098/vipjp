@@ -560,4 +560,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240104_005832.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p7U/ryASgpue+FQwrVaks02mi2F3uqWVn7CmMkT+reUmvjNRoWwuC6vymhCQ3izMjbTPWqAo+7lrRhtyLkQvrKc=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJmScve8jXK9fCOhCybdokN"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJmScve8jXK9fCOhCybdokN"},
+{"name":"ADN-491mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းကိုစိတ်ကောက်ပီး ဘားမှာအရက်မူးအောင် သွားသောက်မိလို့ ရှယ်တီးခံလိုက်ရတဲ့ အိမ်ထောင်ရှင်မလေး တစ်ယောက်ရဲ့ ဇာတ်လမ်း..
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00491/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacprhVqO8F8wOz7GzItfXYHJffoUYvp4MVy4MuvfFfFpnIKw6iUSYmFWHAU7X5sYSDuTFBYiExniZc7xXFbkRI64k=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P9/main/Picsart_24-01-06_00-29-44-099.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00491/adn00491pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240106_000042.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240106_000904.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240106_000517.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpmR7ylbmjL/27Cdcnks3AYUopN0XdX3E6ap4Dj08NDpuLQSIPfs4Cv2j/plezYCicqppE0ReK2I+iSqQ5wrHZIg=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miI27fYIdzGGw3MCawpRzhyJ"}]
