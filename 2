@@ -619,4 +619,20 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00949/jul00949jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/figae5oip1apbm3/Jul-949hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miL+Nf/fXYEwCV89sPHrk4EY"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miL+Nf/fXYEwCV89sPHrk4EY"},
+{"name":"JUQ-530mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေမရှိတော့တဲ့နောက်ပိုင်း နာအိုဆိုတဲ့ ကလေးမလေးကို ပထွေးက သမီးအရင်းလို ပြုစုပျိုးထောင်ပေးခဲ့ပါတယ်
+ဒီလိုနဲ့ အရွယ်ရောက်လာတဲ့အချိန်မှာတော့ ဖင်ကြီးလာတဲ့ နာအိုလို ကောင်မမျိုးကို သမီးအရင်းလို သဘောထားနိုင်အုံးမလားဆိုတာ ဇာတ်လမ်းတွင်ကြည့်ရှုလိုက်ပါ
+မင်းသမီးနာမည် Nao Jinguji
+နာအိုရဲ့ 2024 ထွက် ဇာတ်ကားသစ်",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00530/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p799203ZlCvf3qqkHU+nzOG8lV77MVN+mDh6qlA+RDylyNLwMSb+bQXmgrxcRyJU+kjNkMIeU1mW3JVyYK5Tuqc=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P10/main/Picsart_24-01-10_01-00-20-493.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00530/juq00530pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240110_003437.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240110_003952.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240110_003614.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9px+dDjsPbWBT/u9n6sdgUVORXF9CBclz4PuEjOUkZSTXQ7pLdjo2Sg9P/I7m7dnSEG52IGdpd7uL7CHTqc1sRKE=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miL9p9HUA82ebmRlfCVQeIhK"}]
