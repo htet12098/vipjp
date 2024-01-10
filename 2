@@ -635,4 +635,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240110_003614.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9px+dDjsPbWBT/u9n6sdgUVORXF9CBclz4PuEjOUkZSTXQ7pLdjo2Sg9P/I7m7dnSEG52IGdpd7uL7CHTqc1sRKE=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miL9p9HUA82ebmRlfCVQeIhK"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miL9p9HUA82ebmRlfCVQeIhK"},
+{"name":"JUQ-355mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းရဲ့ ‌အကြွေးတွေကို ဆပ်ရတော့မယ့် အကိတ်မလေး Marina
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00355/playlist.m3u8",
+"download":"https://www.mediafire.com/file/lrv3ed9p3re923p/Juq+355sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P10/main/Picsart_24-01-11_01-15-33-185.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00355/juq00355pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240111_010552.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240111_010757.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00355/juq00355jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/tisnab3c8aapa59/JUQ+355hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLkEsQciPzyZDkiOD1/OptI"}]
