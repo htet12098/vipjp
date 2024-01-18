@@ -758,4 +758,20 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/roe00119/roe00119jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/hfulxgoe7pbu76d/ROE-119hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKNXJ7NQDFi9WnNddYfdZxM"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKNXJ7NQDFi9WnNddYfdZxM"},
+{"name":"JUFE-370mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိဘတွေ မတော်တဆဖြစ်ပီး ဆုံးပါးသွားတော့ ကျောင်းသူလေး 2 ယောက် ကျန်ခဲ့ပါတယ်
+အစ်မဖြစ်သူကတော့ ကျောင်းထွက်ပြီး အလုပ်လုပ်ပေမယ့် အကြွေးတွေကြောင့် အိမ်လခတောင်မပေးနိုင်ဖြစ်နေခဲ့တာပေါ့
+ဒီလိုမျိုးခက်ခဲနေတဲ့ ညီအစ်မနှစ်ယောက်ကို အိမ်ပိုင်ရှင်သားက အခွင့်အရေးယူပီး ရှယ်တီးတဲ့ဇာတ်လမ်း..
+မင်းသမီးနာမည် Kasumi Tsukino /Mei Hosho",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juf/jufe00370/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacpsmfYyD4JUXwV/FN8g6BZHwqYrEmaSzSkWC33mf7vgW4ycs8gxQ/H8XYNqNZliazX0LbB3Ra2RVw6vuXWzEqwfg=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P10/main/Picsart_24-01-19_00-41-20-231.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00370/jufe00370pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240119_002534.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240119_003118.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240119_002949.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpsV0X4u0h2Qjxv17oCzFaYo2LEe3JMmqbZnyz4HtpEuqS7F8XG1SeaLbjk13xnR7hHAqEKhjRCb+i4h/3vMfgGU=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ2uOFygDbSG7feY3Bfmp5t"}]
