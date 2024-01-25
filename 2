@@ -847,4 +847,20 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00919/jul00919jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/j95m274wv1y18dk/Jul-919hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKdexpD9HoKj6yUcj6wU/2F"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKdexpD9HoKj6yUcj6wU/2F"},
+{"name":"JUQ-535mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်္ဂလာနှစ်ပတ်လည်နေ့အတွက် လက်ဆောင်ပေးဖို့ ခင်ပွန်းက အလုပ်တွေ နေရာ ညပါ ကြိုးစားနေတာကို ဖောက်ပြန်နေတယ်ထင်ပြီး အထင်လွဲနေခဲ့တဲ့ ဇနီး...
+ဒါကိုမန်နေဂျာက အခွင့်အရေးယူပီး သူများမိန်းမကို ရှယ်တီးသွားတဲ့ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Fumino Satsuki
+မင်းသမီးက အရမ်းလှတယ်ကွာ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00535/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacppKUA8rfcbeEq9GwQITR75jATm86hsdLMycz171viCG/Kw+ynT0lSY2dDEslRdpM/JT7Hz8Ppo3Z8t6LKntOfEE=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P10/main/Picsart_24-01-26_01-45-01-414.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00535/juq00535pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240126_013359.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240126_012859.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00535/juq00535jp-6.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpml9LLpRUo8AmCrSorl1GEZx3Ouz19isnaCJcAsNR23kIDGC4CuFcwCrjPAYVvTHFvI884v7zdjnLl0GmVoC5Zs=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miK85xzhCKCwgTTvU/RcBpOV"}]
