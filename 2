@@ -879,4 +879,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00394/juq00394jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/q1xc3dkhpjt6ubw/JUQ+394hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJN8hLaPsxW0noHZntugw1t"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJN8hLaPsxW0noHZntugw1t"},
+{"name":"JUQ-534mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မနက်မိုးလင်းတာနဲ့ အလုပ်သွားရတဲ့အပြင် အလုပ်ပြန်တဲ့အခါလည်း အိမ်အလုပ်တွေလုပ်ရလို့ ဘဝကို ငြီးငွေ့နေခဲ့တဲ့ အိမ်ထောင်ရှင်မလေးတစ်ယောက်ရဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Ai Mukai",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00534/playlist.m3u8",
+"download":"https://www.mediafire.com/file/2mf2muqgba26zza/Juq-534sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P10/main/Picsart_24-01-28_18-32-09-027.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00534/juq00534pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00534/juq00534jp-3.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240128_182016.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240128_181837.jpg",
+"dapp":"https://www.mediafire.com/file/u1o1p71jwp9arlf/Juq-534hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJVYIlyLGYVAdQlp4Hm+GVf"}]
