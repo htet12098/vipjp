@@ -987,4 +987,4 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00726/1fsdss00726jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/f3mww3kzgcgx173/Fsdss-726hd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKaZX7sOVPXBAkHzfmcXpXlI3f8gr+81N/JxYHvVKW0pp"}]
