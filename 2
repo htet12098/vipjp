@@ -1033,4 +1033,4 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00518/juq00518jp-3.jpg",
 "dapp":"t",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKciLsI2jUUgODet4swPDRQjFwIGRaJ5Iz7CcuIukcYFx"}]
