@@ -1063,4 +1063,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/rbd00424/rbd00424jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/ioy0tateytzqn52/RBD-424hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKYwopZ/L+Ru4Y2jR59Fzxdnh8wIuXWO2/BFGXzQFF1d7"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKYwopZ/L+Ru4Y2jR59Fzxdnh8wIuXWO2/BFGXzQFF1d7"},
+{"name":"WAAA-337mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခထီးကိုမုန်းလို့ အိမ်ပေါ်ကနှင်ချချင်နေတဲ့ ချွေးမလေးကို အကွက်တွေထုတ်ပြပြီး အချစ်တွေရယူခဲ့တဲ့ဇာတ်လမ်းလေး..
+မင်းသမီးနာမည် Kanau Arisa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/w/waa/waaa00337/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacpsnPFjl9vVp/CPBFsQ7tmaJ0zsotbNi4XT4veJhMcfyDSGxrjysWozOVnAyrz6Cl+3exaibyb+M5fiDIkGnlx24=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-10_15-05-20-996.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/waaa00337/waaa00337pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240210_145136.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240210_144655.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/waaa00337/waaa00337jp-2.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpogpx9FHkn+FMQ65MSSEI2RK8WpOvHysX2XvKsk3EZgdEkyBjeRHe5G4opajWSVMEeVrW+EvprBkLo982efmVB4=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKWDV8qe4xnpyYVpsyNCiIJOaimtzCMYgmySRjQYFkCe0"}]
