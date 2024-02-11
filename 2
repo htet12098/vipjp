@@ -1077,4 +1077,19 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/waaa00337/waaa00337jp-2.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpogpx9FHkn+FMQ65MSSEI2RK8WpOvHysX2XvKsk3EZgdEkyBjeRHe5G4opajWSVMEeVrW+EvprBkLo982efmVB4=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKWDV8qe4xnpyYVpsyNCiIJOaimtzCMYgmySRjQYFkCe0"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKWDV8qe4xnpyYVpsyNCiIJOaimtzCMYgmySRjQYFkCe0"},
+{"name":"SSIS-982mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အရမ်းကြိုးစားပြီး လေ့ကျင့်တဲ့ဘေစ့်ဘောလုံး ကစားသမားကို အသင်းအဖွဲ့မန်နေဂျာမိန်းကလေး ကဘယ်လိုတွေ ဆုချပြီး
+ဘေစ့်ဘောလုံး ကစားသမားလေးစိတ်ဓာတ် ကျနေချိန် ဘယ်လိုယုံကြည်ချက်ရှိအောင် ကျွေးမလဲဆိုတာ
+မင်းသမီးနာမည် Yura Kano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00982/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8a5qg93k5pzntjw/Ssis-982sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-12_00-21-22-370.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00982/ssis00982pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00982/ssis00982jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00982/ssis00982jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00982/ssis00982jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/t0uwc898cepaej8/SSIS-982hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKbmRKOSO1YtGa1MVOuDQ25MHnyZNZHq3rDcjP3mxEEIj"}]
