@@ -1092,4 +1092,19 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00982/ssis00982jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/t0uwc898cepaej8/SSIS-982hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKbmRKOSO1YtGa1MVOuDQ25MHnyZNZHq3rDcjP3mxEEIj"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKbmRKOSO1YtGa1MVOuDQ25MHnyZNZHq3rDcjP3mxEEIj"},
+{"name":"JUQ-529mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အားလုံးမျှော်လင့်စောင့်စားနေတဲ့ ယောက္ခမကို ရှယ်ဖြုတ်တဲ့ သမက်ကားလေးလာပါပီ
+ယောက္ခမအလန်းစားလေးဟာ သမက်ဖြစ်သူရဲ့ ဖြုတ်ချက်တွေအောက်မှာ အလူးအလဲပဲဟေ့ လုံးဝမိုက်တယ်ကြည့်ရတာ..
+မင်းသမီးနာမည် Yuki Yoshizawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00529/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacps+Pcx1yWkrKfcZGpdmcx1hyq5PlpXYMbety2nK0iTqmtlcd3qgpssYarYgpOC17wy7W2RZjyGRl37hQb57BwUY=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-13_01-32-36-698.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00529/juq00529pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240213_012128.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240213_012020.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00529/juq00529jp-3.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacppqc5L2QzmxiEdLTRz7pPhUkRs7X7hhYa6GtN2P6I5AtpnS6NM8G14cgQL0RYpEV1Q+n98nnNWztmuN83+/Z6KU=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKdb9CpOF2hmnKsEnodbWN3w+hVX3BXseKrCoXZUGKhHQ"}]
