@@ -1107,4 +1107,18 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00529/juq00529jp-3.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacppqc5L2QzmxiEdLTRz7pPhUkRs7X7hhYa6GtN2P6I5AtpnS6NM8G14cgQL0RYpEV1Q+n98nnNWztmuN83+/Z6KU=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKdb9CpOF2hmnKsEnodbWN3w+hVX3BXseKrCoXZUGKhHQ"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKdb9CpOF2hmnKsEnodbWN3w+hVX3BXseKrCoXZUGKhHQ"},
+{"name":"SSIS-951mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စော်ကြောက်ကောင်ဖြစ်နေတဲ့ ရုံးကဂျူနီယာကောင်လေးကို ဆွဲစားမဲ့ မမရဲ့ ဇာတ်ကားလေးဖြစ်ပါတယ်
+မင်းသမီးနာမည် Saika Kawakita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00951/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8qotfauo8u7shll/Ssis-951sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-14_20-19-41-373.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00951/ssis00951pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00951/ssis00951jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240214_201429.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00951/ssis00951jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/13ynt91i5nfmkk5/SSIS-951hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKbmRKOSO1YtGa1MVOuDQ25PU2sdWEIh2hT6sseE8HJJ1"}]
