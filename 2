@@ -1137,4 +1137,20 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240216_003511.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpk7H4NqFsOctJvlfw9JjJy70gQ9WTMw86Hx4+B/q76qzfCBSinpJ0tI7ut8qCSopnNNbnzEPslUPkp0XVU+ZDgU=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJNVCooplbtjgpmBprQbATF"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJNVCooplbtjgpmBprQbATF"},
+{"name":"JUL-779mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Ai Kanoဟာအိမ်ထောင်သည်​​ဖြစ်ပြီးအနှိပ်ခန်းသွားရတာကိုစွဲလန်းနေသူပါ
+တစ်နေ့မှာတော့အနှိပ်ခန်းကအလုပ်သမားတစ်ယောက်ကသူ့ကိုသဘောကျသွားတော့ရင်းနှီးအောင်လုပ်ပြီး 'လူပျိုပါတစ်ခါမှမလုပ်ဖူးလို့ပေးလုပ်ပါ' ဆိုတော့သနားတာနဲ့ဖောင်းဒိုင်းပေးလိုက်ပါတယ်
+လူပျိုယောင်ဆောင်ထားတဲ့စားဘဲကြီးက ဘယ်လိုအကွက်တွေနဲ့ ရှယ်ကြုံးမလဲ
+မင်းသမီးနာမည် Ai Kano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00779/playlist.m3u8",
+"download":"https://www.mediafire.com/file/7a217sucardq0mb/Jul-779sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-17_01-47-47-708.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00779/jul00779pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00779/jul00779jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00779/jul00779jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00779/jul00779jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/utfv3z6s8pa84hw/JUL-779hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJBrjsdjJhadVUjArSCGYgK"}]
