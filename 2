@@ -1153,4 +1153,19 @@ Ai Kanoဟာအိမ်ထောင်သည်​​ဖြစ်ပြီး�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00779/jul00779jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/utfv3z6s8pa84hw/JUL-779hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJBrjsdjJhadVUjArSCGYgK"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJBrjsdjJhadVUjArSCGYgK"},
+{"name":"SONE-053mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘေးအိမ်ကို ပြောင်းလာတဲ့ကောင်မလေးက တစ်ချိန်က အသဲခွဲသွားတဲ့ ရည်းစားဟောင်းဖြစ်နေတဲ့အခါ...
+အငြိုးနဲ့လိုးတဲ့ကား
+မင်းသမီးနာမည် Riri Nanatsumori",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/son/sone00053/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacpnjvEiaj4PePdpnhLhP9wpwjDAEW4pgRXRzssoHD2QCIfHWdk4c2N8oCM7srbJqtPbfr3MkoRR+0JYJDNXwh2n8=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-18_00-37-07-167.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/sone00053/sone00053pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/sone00053/sone00053jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240218_001352.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240218_002548.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpkrHkYODy+Bfmn0PvmozlrbWDQm9bAdP4VtrearySisqbVEsexJJA+YjdGDuBjCbHBPonxI7tFYgcVHMpa45Tf8=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKA+l8c2T12ztEbUjYiWdSj"}]
