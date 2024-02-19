@@ -1168,4 +1168,18 @@ Ai Kanoဟာအိမ်ထောင်သည်​​ဖြစ်ပြီး�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240218_002548.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpkrHkYODy+Bfmn0PvmozlrbWDQm9bAdP4VtrearySisqbVEsexJJA+YjdGDuBjCbHBPonxI7tFYgcVHMpa45Tf8=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKA+l8c2T12ztEbUjYiWdSj"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKA+l8c2T12ztEbUjYiWdSj"},
+{"name":"MEYD-882mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဂေါက်ကလပ်အသင်းက ဆရာမလေးကို ဘောလုံးအသင်းကနည်းပြက အကွက်ဆင်ပီး ရှယ်တီးတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Tsubasa Amami",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00882/playlist.m3u8",
+"download":"h4g+2WfmqCmaO05URmacphn4pVy7IrDOY6jpYt/VXO2gdB8yYN3h4Vbj/3+KqJMsXliOrze1lwb8F2zlsJMBTyC9r7VDKpxQ/eQyj3OIrPY=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-19_20-46-41-453.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00882/meyd00882pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240219_201305.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240219_202449.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240219_202316.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpiSzLe9weN/cku7osG92mt3o33/Dq+DJ9m6dLK6/gdkUixxOR+1nKPYZnofB3cAFVRlWdxYCpkwopklCw2CRD6g=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJy87Ow2aNpx1x4MUAquKOC"}]
