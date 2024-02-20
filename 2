@@ -1182,4 +1182,19 @@ Ai Kanoဟာအိမ်ထောင်သည်​​ဖြစ်ပြီး�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240219_202316.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpiSzLe9weN/cku7osG92mt3o33/Dq+DJ9m6dLK6/gdkUixxOR+1nKPYZnofB3cAFVRlWdxYCpkwopklCw2CRD6g=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJy87Ow2aNpx1x4MUAquKOC"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJy87Ow2aNpx1x4MUAquKOC"},
+{"name":"JUL-442mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဟိုတယ်မှာအခန်းမရှိတော့ မောင်ဇော်နဲ့ တစ်ခန်းတည်းအတူနေဖို့ဆုံးဖြတ်လိုက်တဲ့ အကိတ်မမလေး
+ရှယ်အိုးကြီးကို ဘယ်လိုဖြိုမလဲဆိုတာ အားပေးလိုက်ပါဦး
+မင်းသမီးနာမည် Asahi Mizuno",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00442/jul00442_dmb_w.mp4",
+"download":"h4g+2WfmqCmaO05URmacpk2xgor9IcuA5TattdS3ftX9F+rKEmNW5yDPhptg5cF87CJY9wkUK429gJ3msMfBg0VyI3pY6NbBT8lh/sWgO7E=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-21_01-20-25-195.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00442/jul00442pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240221_010620.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240221_011015.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240221_010757.jpg",
+"dapp":"h4g+2WfmqCmaO05URmacpjcKNveazl0PmaZgPNXDTrczll4xJDxua0cdAWXvrt1o9Kvu4RbqtWVLgs0r0G34WEtEB8mUr/j+WozUjfsJ0aM=",
+"candownload":"ll",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJQ65dxXNIR8/7ZICXTlhuW"}]
