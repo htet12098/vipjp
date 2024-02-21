@@ -1197,4 +1197,18 @@ Ai Kanoဟာအိမ်ထောင်သည်​​ဖြစ်ပြီး�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240221_010757.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpjcKNveazl0PmaZgPNXDTrczll4xJDxua0cdAWXvrt1o9Kvu4RbqtWVLgs0r0G34WEtEB8mUr/j+WozUjfsJ0aM=",
 "candownload":"ll",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJQ65dxXNIR8/7ZICXTlhuW"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJQ65dxXNIR8/7ZICXTlhuW"},
+{"name":"SAME-057mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူဌေးမ ကိုတီးတာအားမရသေးလို့ သူဌေးသမီးကို လိုက်ပွဲ ဆွဲတဲ့ကားလေး
+မင်းသမီးနာမည် Yuri Sasahara/Hina Serizawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/sam/same00057/playlist.m3u8",
+"download":"https://www.mediafire.com/file/f2nctw6ivrhczsn/Same-057sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-22_00-37-48-021.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00057/same00057pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/same00057/same00057jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/same00057/same00057jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/same00057/same00057jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/3a0ay8v63wyv0o2/SAME-057hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKdpwvjDKymHSkEiRxPD5ne"}]
