@@ -1211,4 +1211,19 @@ Ai Kanoဟာအိမ်ထောင်သည်​​ဖြစ်ပြီး�
 "photo5":"https://pics.dmm.co.jp/digital/video/same00057/same00057jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/3a0ay8v63wyv0o2/SAME-057hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKdpwvjDKymHSkEiRxPD5ne"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKdpwvjDKymHSkEiRxPD5ne"},
+{"name":"ADN-370mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငယ်ဘ၀ အမှတ်တရတွေပြန်ပြောရင်းနဲ့ပဲ သူများမိန်းမကို ၀င်လုံး..
+စော်ကြီးကလည်း ရုန်းရင်း ရုန်းရင်းနဲ့ ဖြဲပေး
+မင်းသမီးနာမည် Kujou Michiru",
+"watch":"",
+"download":"https://www.mediafire.com/file/nn32pip2rd9fugu/Adn-370sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-23_00-57-51-672.jpg",
+"photo2":"https://cdn.javsts.com/wp-content/uploads/2022/01/adn370pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240223_005001.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240223_005300.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240223_005331.jpg",
+"dapp":"https://www.mediafire.com/file/k3qcawi1gtsd3lz/ADN-370hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIqRVj9lqPlLfO8sBN4qVZn"}]
