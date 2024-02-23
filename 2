@@ -1226,4 +1226,18 @@ Ai Kanoဟာအိမ်ထောင်သည်​​ဖြစ်ပြီး�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240223_005331.jpg",
 "dapp":"https://www.mediafire.com/file/k3qcawi1gtsd3lz/ADN-370hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIqRVj9lqPlLfO8sBN4qVZn"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIqRVj9lqPlLfO8sBN4qVZn"},
+{"name":"PPPE-170mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သမီးကို ကြုံးချင်လို့ အမေ့ကိုလက်ထပ်ခဲ့တဲ့ အကြံပိုင်တဲ့လူကြီးနဲ့ ဆယ်ကျော်သက်ကောင်မလေး....
+မင်းသမီးနာမည် Nene Tanaka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/ppp/pppe00170/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p3w40o7qMAe7hSdUo/3nmetY/4h0ZdPa4+PRsSNUmjVDOB+0rBXJqgQQYiAqWC75oDpvwdjGIKZeZ47Czg0eORg=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-24_00-38-36-116.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pppe00170/pppe00170pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240224_002919.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240224_002449.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pppe00170/pppe00170jp-2.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p33JQHzBBE2mGv+YwNESWCT5TYO2+LoLpW4S5pTvnnWDoZvf8S2G3PiMMFAQ6wVyDdVCCbPfjG/KlVXWv+dzo6k=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIn+Tx9PvJThvF2rOOB2rHe"}]
