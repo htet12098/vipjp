@@ -1240,4 +1240,20 @@ Ai Kanoဟာအိမ်ထောင်သည်​​ဖြစ်ပြီး�
 "photo5":"https://pics.dmm.co.jp/digital/video/pppe00170/pppe00170jp-2.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p33JQHzBBE2mGv+YwNESWCT5TYO2+LoLpW4S5pTvnnWDoZvf8S2G3PiMMFAQ6wVyDdVCCbPfjG/KlVXWv+dzo6k=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIn+Tx9PvJThvF2rOOB2rHe"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIn+Tx9PvJThvF2rOOB2rHe"},
+{"name":"ATID-190mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆပ်နိုင်လို့ ဂိုဏ်းတစ်ခုဆီအရောင်းစားခံရပါတယ် 
+ရဲတစ်ယောက်ရဲ့ကယ်တင်မှုကနေလွတ်မြောက်ခဲ့ပြီးစုံထောက်တစ်ယောက်ဖြစ်အောင်ကြိုးစားခဲ့ပါတယ် 
+
+၂နှစ်ကြာပြီးနောက်မှာတော့ သူ့မိသားစုရယ်အဖမ်းခံရတုန်းကသူ့သူငယ်ချင်းရယ်အတွက်လက်စားချေဖို့ပြန်ကြိုးစားတဲ့အခါ..အောင်မြင်မလားကျရှုံးသွားမလဲဆိုတာ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/ati/atid00190/atid00190_dmb_s.mp4",
+"download":"https://www.mediafire.com/file/vjio55mkap1ad2p/Atid-190sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-25_00-38-46-906.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00190/atid00190pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/atid00190/atid00190jp-11.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00190/atid00190jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00190/atid00190jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/ybehgjn1yvy3lnn/ATID-190hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIYj+2AN+PvlbgVIvrBTeFB"}]
