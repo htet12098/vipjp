@@ -1256,4 +1256,20 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00190/atid00190jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/ybehgjn1yvy3lnn/ATID-190hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIYj+2AN+PvlbgVIvrBTeFB"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIYj+2AN+PvlbgVIvrBTeFB"},
+{"name":"PFES-006mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လက်အောက်ဝန်ထမ်းမှာ ဇနီးချောလေးရှိတာကို 
+သူဌေးသိသွားတဲ့အခါ မနာလိုစိတ်တွေနဲ့ ဘယ်လိုအပိုင်သိမ်းမလဲ...
+သူများမိန်းမကို အကြပ်ကိုင်ပြီး ရှယ်တီးတဲ့ကားလေးပါ
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/p/pfe/pfes006/pfes006_dmb_w.mp4",
+"download":"wGVEvd9lu7EdHPW+18o9p7U/ryASgpue+FQwrVaks03l6NaeFgaHgOut2FLYOsuZWNoXf2GCungJq7utXDzVVxg2gA3YhJgbqqVS7Xzk/bM=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-26_01-37-43-321.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pfes00006/pfes00006pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/",
+"dapp":"wGVEvd9lu7EdHPW+18o9p1ppUz6LC5RwSA5CpQq6+TaJw0cBsx7jVyluG2QSZcbqr2x+qN1afgX+aBOD/Ii9sypLJqOV6rzj0WIM4oTmsKo=",
+"candownload":"lI",
+"wcode":"တစ်"}]
