@@ -1272,4 +1272,20 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240226_013402.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p1ppUz6LC5RwSA5CpQq6+TaJw0cBsx7jVyluG2QSZcbqr2x+qN1afgX+aBOD/Ii9sypLJqOV6rzj0WIM4oTmsKo=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKSydYBlh9oJVEZHxvMiQlJgiLRM5brVmekFwiJ0BXkZN"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKSydYBlh9oJVEZHxvMiQlJgiLRM5brVmekFwiJ0BXkZN"},
+{"name":"ADN-490mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယာမဇကီတို့ ဇနီးမောင်နှံဟာ လိင်စိတ်ကင်းမဲ့နေကြတဲ့ လင်မယားတွေဖြစ်ပါတယ်..
+တစ်နေ့ ယာမဇကီရဲ့ မန်နေဂျာဟောင်း အိုတာက ယာမဇကီရဲ့ မိန်းမဆီရောက်လာပါတယ် ..
+အိုတာက လိင်ပညာအကြံပေးဖြစ်ပြီး လိင်စိတ်ကင်းမဲ့နေတဲ့ ယာမဇကီရဲ့ ဇနီးကို ဘယ်လို သင်ပေးလိုက်သလဲဆိုတာ...
+မင်းသမီးနာမည် Miho Tono",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00490/playlist.m3u8",
+"download":"https://www.mediafire.com/file/582rn1pov3hiv4w/Adn-490sd.mp4/file",
+"photo1":"https://i.imgur.com/i164h6Q.jpeg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00490/adn00490pl.jpg",
+"photo3":"https://i.imgur.com/9Ox3LM6.jpeg",
+"photo4":"https://i.imgur.com/ZHO60hz.jpeg",
+"photo5":"https://i.imgur.com/c9PsiLD.jpeg",
+"dapp":"https://www.mediafire.com/file/rllegav3soy8wrz/Adn-490hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
