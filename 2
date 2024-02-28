@@ -1281,7 +1281,7 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 မင်းသမီးနာမည် Miho Tono",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00490/playlist.m3u8",
 "download":"https://www.mediafire.com/file/582rn1pov3hiv4w/Adn-490sd.mp4/file",
-"photo1":"https://i.imgur.com/i164h6Q.jpeg",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-02-28_22-54-58-662.jpg",
 "photo2":"https://pics.dmm.co.jp/digital/video/adn00490/adn00490pl.jpg",
 "photo3":"https://i.imgur.com/9Ox3LM6.jpeg",
 "photo4":"https://i.imgur.com/ZHO60hz.jpeg",
