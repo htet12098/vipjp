@@ -1306,4 +1306,19 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240228_013951.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p3Dd2KuqKZpRy8o3VUzokNFkmtd4zseZFC7hFjcoOTGCLAtUFTCiMNDjzBfTZVf41gPVGWVipFLL7EHPbv/nsgo=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKdb9CpOF2hmnKsEnodbWN3yFnS7mKBechQ79NLwhYJy0"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKdb9CpOF2hmnKsEnodbWN3yFnS7mKBechQ79NLwhYJy0"},
+{"name":"JUQ-583mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆိုင်ပိုင်ရှင်ရဲ့ မိန်းမကိုမှ ချိန်နေခဲ့တဲ့ သူငယ်ချင်း သုံးယောက်
+ဘယ်သူကံကောင်းမလဲဆိုတာကိုတော့ ဇာတ်လမ်းတွင်ကြည့်ရှုလိုက်ပါ
+မင်းသမီးနာမည် Fumino Satsuki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00583/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p0vM0gReHlBwaRQ0va7eEHeXOKz4VUZ6hj+wV1/cgvV1fG/NHTY8fr/0paHuwvcOoeI0fISYMKh19WG4s1IjzYE=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-03-01_00-37-37-725.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00583/juq00583pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240301_002815.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240301_002848.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00583/juq00583jp-3.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9pzdJlb4JffJZyRqbBazXy7uwJnLE6UsA/b87JS1aTTWtJxJjRTAwm84YsbAP7gCBR0ha6AI4/x8ZTCzVN15ilmE=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKoZ8Xr7sEBVhW+7nl+SERb"}]
