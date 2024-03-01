@@ -1321,4 +1321,21 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00583/juq00583jp-3.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9pzdJlb4JffJZyRqbBazXy7uwJnLE6UsA/b87JS1aTTWtJxJjRTAwm84YsbAP7gCBR0ha6AI4/x8ZTCzVN15ilmE=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKoZ8Xr7sEBVhW+7nl+SERb"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKoZ8Xr7sEBVhW+7nl+SERb"},
+{"name":"RBD-797mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယာဘူတာ ဆေးကြောင့် လူတွေသေဆုံးမှုတွေရှိပြီး ဒုက္ခရောက်နေရတယ်
+ဒီအမှုလိုက်နေတဲ့ အစ်ကိုရုတ်တရက် ပျောက်ဆုံးသွားလို့ ညီမဖြစ်သူရှေ့နေမလေး နာဇိုမီက ဆက်လိုက်ရတယ်
+အမှုလိုက်နေတုန်း အဖမ်းခံလိုက်ရပြီး ဘယ်လိုတွေ အကြပ်ကိုင်ခံရမလဲ...အစ်ကိုဖြစ်သူကိုကော ရှာတွေ့ပါ့မလား?
+ဆက်လက်ကြည့်ရှူ့ပေးကြပါ
+မင်းသမီးနာမည် Kaede Fuyutsuki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/r/rbd/rbd00797/rbd00797_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/8yhmkqystos1mko/Rbd-797sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-02_01-31-44-469.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/rbd00797/rbd00797pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/rbd00797/rbd00797jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/rbd00797/rbd00797jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/rbd00797/rbd00797jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/ckdwrm8niwqai30/RBD-797hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJPUYl4lD6xskhROeUOZ3AE"}]
