@@ -1338,4 +1338,19 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://pics.dmm.co.jp/digital/video/rbd00797/rbd00797jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/ckdwrm8niwqai30/RBD-797hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJPUYl4lD6xskhROeUOZ3AE"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJPUYl4lD6xskhROeUOZ3AE"},
+{"name":"JUQ-545mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကလေးအမေ အရမ်းဖြစ်ချင်နေတဲ့ ဘေးအိမ်က 
+အစ်မကြီးကို အမေလို့ခေါ်ပြီးရှယ်တီးသွားတဲ့ မောင်ဇော်
+မင်းသမီးနာမည် Meari Tachibana",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00545/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p3Dd2KuqKZpRy8o3VUzokNGNzKd7M8gYvgH8hdbwatyRXp8hfc/LLqEncytq8MS/EImi5y5mmOXVwHWDCLEn5iY=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-03_01-22-48-056.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00545/juq00545pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240303_011150.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240303_011237.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00545/juq00545jp-8.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p+aF0b0U/FufHNoQN+6sM3mq2YnoZDQ23+Y+5WatQwIMs//56D5RpoHBNcOo/MV5o/3+WO3q0+mcLx/1GtGTb+U=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJhKHu5OL6LlJFrXDWPQ1bU"}]
