@@ -1353,4 +1353,20 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00545/juq00545jp-8.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p+aF0b0U/FufHNoQN+6sM3mq2YnoZDQ23+Y+5WatQwIMs//56D5RpoHBNcOo/MV5o/3+WO3q0+mcLx/1GtGTb+U=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJhKHu5OL6LlJFrXDWPQ1bU"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJhKHu5OL6LlJFrXDWPQ1bU"},
+{"name":"MIDV-643mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ချစ်သူနဲ့လက်ထပ်ဖို့လုပ်နေတဲ့ သတို့သမီးလောင်းလေး မင်္ဂလာပွဲမတိုင်ခင် ပါကင်ဖောက်ခံလိုက်ရတဲ့ ဇာတ်လမ်းပါ...
+ဒါကို သူ့ကောင်လေးက မသိရှာဘူး
+ဘယ်သူရှယ်တီးသွားလဲဆိုတာကိုတော့ ဇာတ်လမ်းတွင်ကြည့်ရှုလိုက်ပါ
+မင်းသမီးနာမည် Nana Yagi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00643/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p82W9z/4bHCgtjv0jIlW2WT5Xc8cr5cCC33MS9hTq2L1qR7WsPnsH2gZU5+7grlXR3HkXOBxwdcbf2bn/2/fJR0=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p11/main/Picsart_24-03-04_20-20-39-168.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00643/midv00643pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240304_195919.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240304_200228.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240304_195728.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p3w40o7qMAe7hSdUo/3nmeuWC3Ed/eMGxuGD30q3BOBEUFZwbvVfM7mt5LA9YlVNru7YnpTNs1nW9Vpw/kkpga4=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLSpPOEhNoZ6RDHYnGPpvT9"}]
