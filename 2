@@ -1369,4 +1369,20 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240304_195728.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p3w40o7qMAe7hSdUo/3nmeuWC3Ed/eMGxuGD30q3BOBEUFZwbvVfM7mt5LA9YlVNru7YnpTNs1nW9Vpw/kkpga4=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLSpPOEhNoZ6RDHYnGPpvT9"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLSpPOEhNoZ6RDHYnGPpvT9"},
+{"name":"DASD-936mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အာကီယာဟာ လိုင်းပေါ်က Gymဆိုင်ကြော်ငြာကြောင့်စိတ်ဝင်စားသွားပြီးယောကျာ်းဖြစ်သူကိုပူဆာပါတယ်..
+စျေးကလည်းသက်သာ မဆော့ချင်ရင် ငွေလည်းပြန်အမ်းပေးတယ်ဆိုတော့ ယောကျာ်းဖြစ်သူကလည်းလွှတ်လိုက်ပါတယ်..
+ဘာတွေဆက်ဖြစ်မလဲ...
+မင်းသမီးနာမည် Akari Mitani",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dasd00936/playlist.m3u8",
+"download":"https://www.mediafire.com/file/fm8ujhl8hyumk9g/Dasd-936sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-06_00-58-25-401.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dasd00936/dasd00936pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240306_005721.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/dasd00936/dasd00936jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dasd00936/dasd00936jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/i678ab71szqaskv/DASD-936hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miL/AkuuM6nwYpazfs+XrrPp"}]
