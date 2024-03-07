@@ -1400,4 +1400,18 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240307_011229.jpg",
 "dapp":"https://www.mediafire.com/file/m9zn0nqrbn4x8ij/Adn-541hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIvX1WWomzgAk/TGjKbz5Jf"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIvX1WWomzgAk/TGjKbz5Jf"},
+{"name":"BONY-034mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိထွေးရဲ့ မြူဆွယ်မှုအောက်မှာ ကျရှူံး
+မင်းသမီးနာမည် Ayaka Mochizuki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/b/bon/bony00034/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ov4uktzc6z8ump1/Bony-034sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-07_23-30-21-913.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/bony00034/bony00034pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/bony00034/bony00034jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/bony00034/bony00034jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/bony00034/bony00034jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/s757yv7cch42s3m/BONY-034hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKYmc7FNW4xbXSWM9SJmt88"}]
