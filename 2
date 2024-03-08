@@ -1414,4 +1414,19 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://pics.dmm.co.jp/digital/video/bony00034/bony00034jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/s757yv7cch42s3m/BONY-034hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKYmc7FNW4xbXSWM9SJmt88"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKYmc7FNW4xbXSWM9SJmt88"},
+{"name":"ATID-590mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းက အရင်လိုမကြင်နာတော့လို့ ဝမ်းနည်းနေတဲ့ အမျိုးသမီးကို သားဖြစ်သူရဲ့ ဘောလုံးနည်းပြက အိမ်လာလည်ရင်း ရှယ်တီးသွားတဲ့ဇာတ်လမ်း..
+ဒီလမှထွက်လာတဲ့ ဇာတ်ကားသစ်လေးပါ အရမ်းမိုက်ပါတယ်
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00590/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p82W9z/4bHCgtjv0jIlW2WS/qMIDc5q5FN59Dsk+72ri6ZgwTacU9Vr88h7Tn9ppHKIzeFciGrX2zdXXWusqXoo=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-08_21-43-54-200.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00590/atid00590pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240308_211900.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240308_212026.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240308_214228.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p3w40o7qMAe7hSdUo/3nmesa2oRPaWzSXDaelSdQjgBpIxrWH3jSDTB4IqU+gdsGQ8V1qcVfQHId676KXntnxOM=",
+"candownload":"lI",
+"wcode":"တစ်"}]
