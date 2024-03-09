@@ -1429,4 +1429,4 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240308_214228.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p3w40o7qMAe7hSdUo/3nmesa2oRPaWzSXDaelSdQjgBpIxrWH3jSDTB4IqU+gdsGQ8V1qcVfQHId676KXntnxOM=",
 "candownload":"lI",
-"wcode":"တစ်"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKYq2SwsTqZVGg0FBeqhszk/+SbmhycM9LW9QobtYQ+Qu"}]
