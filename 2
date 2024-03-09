@@ -1429,4 +1429,19 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240308_214228.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p3w40o7qMAe7hSdUo/3nmesa2oRPaWzSXDaelSdQjgBpIxrWH3jSDTB4IqU+gdsGQ8V1qcVfQHId676KXntnxOM=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKYq2SwsTqZVGg0FBeqhszk/+SbmhycM9LW9QobtYQ+Qu"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKYq2SwsTqZVGg0FBeqhszk/+SbmhycM9LW9QobtYQ+Qu"},
+{"name":"DASS-085mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စည်းကမ်းကြီးတဲ့ ယောက္ခထီးလူရိုးကြီးကို train ပေးတဲ့ ချွေးမ..
+ချွေးမကို မှန်းထုရကနေ လူမိပြီး ဘလိုတွေဆက်ဖြစ်မလဲ
+မင်းသမီးနာမည် Sumire Mizukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dass00085/playlist.m3u8",
+"download":"https://www.mediafire.com/file/vuddhzbchfiaxkg/Dass-085sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-10_00-42-55-520.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dass00085/dass00085pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dass00085/dass00085jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/dass00085/dass00085jp-18.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dass00085/dass00085jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/rtgb2oxzgdq7hz2/DASS-085hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
