@@ -1444,4 +1444,4 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://pics.dmm.co.jp/digital/video/dass00085/dass00085jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/rtgb2oxzgdq7hz2/DASS-085hd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIMpB2RVDF++gzfEq90qC6n"}]
