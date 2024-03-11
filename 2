@@ -1444,4 +1444,18 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://pics.dmm.co.jp/digital/video/dass00085/dass00085jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/rtgb2oxzgdq7hz2/DASS-085hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIMpB2RVDF++gzfEq90qC6n"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIMpB2RVDF++gzfEq90qC6n"},
+{"name":"SAME-101mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သမီးကိုလိုချင်လို့ အမေဖြစ်သူကိုလက်ထပ်လိုက်တဲ့ ဦးလေးကြီးနဲ့ ရင်ဆိုင်ရတော့မယ့် ကောလိပ်ကျောင်းသူလေး
+မင်းသမီးနာမည် Suzu Akane",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/sam/same00101/playlist.m3u8",
+"download":"https://www.mediafire.com/file/93hszg5gdjw2dgc/Same-101sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-12_00-15-26-304.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00101/same00101pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/same00101/same00101jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/same00101/same00101jp-7.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240312_000032.jpg",
+"dapp":"https://www.mediafire.com/file/dz124zbvow73o2r/Same-101hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
