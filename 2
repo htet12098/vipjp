@@ -1458,4 +1458,21 @@ Azusaဟာအဖေဖြစ်သူရဲ့အကြွေးတွေမဆ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240312_000032.jpg",
 "dapp":"https://www.mediafire.com/file/dz124zbvow73o2r/Same-101hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miK+jpQHEogn4bXMYgPVFWxW"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miK+jpQHEogn4bXMYgPVFWxW"},
+{"name":"STARS-322mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာမီကို တစ်ယောက် ပထမဆုရခဲ့ပေမယ့် အနုပညာအလုပ် ဝါသနာမပါလို့ အဖေ့ကုမ္ပဏီမှာပဲ အလုပ်ဝင်လုပ်ခဲ့တယ်
+ဝါသနာပါတာပဲ လုပ်ချင်ပြီး ရှေ့နေဖြစ်ဖို့ကြိုးစားနေတဲ့ကောင်လေးနဲ့ ရည်းစားတွေဖြစ်သွားတယ်
+တစ်ဖက်မှာတော့ ကုမ္ပဏီဒေဝါလီခံသွားလို့ လမ်းပျောက်နေတဲ့လူငယ်လေးတစ်ယောက်ရယ်
+ဘာတွေဆက်ဖြစ်မလဲ...
+မင်းသမီးနာမည် Suzu Honjo",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1st/1stars322/1stars322_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/nicvlv05j2w5s7g/Stars-322sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-13_00-23-06-533.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1stars00322/1stars00322pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1stars00322/1stars00322jp-15.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1stars00322/1stars00322jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1stars00322/1stars00322jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/u2vq038xxmmsz8l/Stars-322Hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
