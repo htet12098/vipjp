@@ -1475,4 +1475,19 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1stars00322/1stars00322jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/u2vq038xxmmsz8l/Stars-322Hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPE-195mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စကားနားမထောင်တဲ့ သမီးလေးကို မိဘတွေက မနိုင်လို့ ဦးလေးဖြစ်သူကိုဆုံးမခိုင်းပါတယ်
+ဦးလေးက တူမလေးကို လိမ်မာလာအောင် ဘယ်လိုဆုံးမပြီး ရှယ်တီးမလဲ...
+မင်းသမီးနာမည် Kasumi Tsukino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/ppp/pppe00195/playlist.m3u8",
+"download":"https://www.mediafire.com/file/n049fhazxhonqtq/Pppe-195sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-14_01-33-05-325.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pppe00195/pppe00195pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240314_012938.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240314_013212.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pppe00195/pppe00195jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/wq6jujlb0efzmed/Pppe-195hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
