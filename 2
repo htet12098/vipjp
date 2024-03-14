@@ -1490,4 +1490,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/pppe00195/pppe00195jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/wq6jujlb0efzmed/Pppe-195hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKX/B5oSceo+xKWuJxy5NdbzdBzZVENxfta2Vmto/Ryw2"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKX/B5oSceo+xKWuJxy5NdbzdBzZVENxfta2Vmto/Ryw2"},
+{"name":"JUQ-599mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခမနဲ့သမက် ဇာတ်လမ်း
+မင်းသမီးနာမည် Sayuri Hayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00599/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p4XRIRRnjkx/cTs/U6Z5qVCcRd/3MFreU8PAJVggqO5b2sHblwN6MKNIxoP3N00YpHHr6rhE0RcZKkyWN2BcwiU=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-15_02-11-55-797.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00599/juq00599pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240315_015808.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240315_015902.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00599/juq00599jp-5.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p3Dd2KuqKZpRy8o3VUzokNEgES3qcn78WxsgwyRbQRTg4N9r9bB2gAk5xeyRm0cg5VgELNKNXgQ9FPXABwSHxz0=",
+"candownload":"lI",
+"wcode":"တစ်"}]
