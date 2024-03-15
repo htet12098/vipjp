@@ -1504,4 +1504,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00599/juq00599jp-5.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p3Dd2KuqKZpRy8o3VUzokNEgES3qcn78WxsgwyRbQRTg4N9r9bB2gAk5xeyRm0cg5VgELNKNXgQ9FPXABwSHxz0=",
 "candownload":"lI",
+"wcode":"တစ်"},
+{"name":"SSIS-145mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူဌေးနဲ့ ခရီးအတူထွက်မိလို့ နောင်တရသွားတဲ့ကောင်မလေး
+မင်းသမီးနာမည် Tsukasa Aoi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00145/playlist.m3u8",
+"download":"https://www.mediafire.com/file/hnykk4rqq7l41tq/Ssis-145sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-16_00-41-06-129.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00145/ssis00145pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00145/ssis00145jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00145/ssis00145jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00145/ssis00145jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/zle62nwipd9f4dc/SSIS-145hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
