@@ -1518,4 +1518,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00145/ssis00145jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/zle62nwipd9f4dc/SSIS-145hd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"JUL-746mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဥက္ကဌကြီး ရုံးခန်းထဲမှာ အစားခံလိုက်ရတဲ့ အိမ်ထောင်ရှိတဲ့ကောင်မလေး...
+မင်းသမီးနာမည် Minami Yasu",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00746/playlist.m3u8",
+"download":"https://www.mediafire.com/file/wr8gl4fxd8mr274/Jul-746sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-17_00-14-26-243.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00746/jul00746pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00746/jul00746jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00746/jul00746jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00746/jul00746jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/vmlecqvzjqrczlg/JUL-746hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJfLqv38eqJIWInBWAc/Eg5"}]
