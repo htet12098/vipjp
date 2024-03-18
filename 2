@@ -1532,4 +1532,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00746/jul00746jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/vmlecqvzjqrczlg/JUL-746hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJfLqv38eqJIWInBWAc/Eg5"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJfLqv38eqJIWInBWAc/Eg5"},
+{"name":"NKKD-323mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကောင်မလေးရဲ့အမေကို ရှယ်တီးတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Sakura Tsuji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nkk/nkkd00323/playlist.m3u8",
+"download":"https://www.mediafire.com/file/lpdx9slo0g2tuxn/Nkkd-323sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-19_00-14-55-537.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nkkd00323/nkkd00323pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240318_235515.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240318_235559.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nkkd00323/nkkd00323jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/lusrpwg27tf76lr/Nkkd-323hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIlkojv6eJ4072JAqDg9RIN"}]
