@@ -1546,4 +1546,19 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/nkkd00323/nkkd00323jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/lusrpwg27tf76lr/Nkkd-323hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIlkojv6eJ4072JAqDg9RIN"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIlkojv6eJ4072JAqDg9RIN"},
+{"name":"JUQ-601mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းရဲ့ အသုံးမကျမှုကြောင့် ကလေးမရဖြစ်နေတာကို ယောက္ခမက မြေးချီချင်တယ်ဆိုပြီး ချွေးမကိုပူဆာလာတဲ့အခါ....
+ယောက္ခထီးနဲ့ ချွေးမဇာတ်လမ်း
+မင်းသမီးနာမည် Reno Kiyomi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00601/playlist.m3u8",
+"download":"https://www.mediafire.com/file/jnkiyc3n2uetyb5/Juq-601sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00601/juq00601pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240319_234111.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/",
+"dapp":"https://www.mediafire.com/file/u0futaa9a105ef4/Juq-601hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIgDHLZX9QxTL7Unvd9kVr9"}]
