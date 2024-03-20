@@ -1561,4 +1561,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240319_234355.jpg",
 "dapp":"https://www.mediafire.com/file/u0futaa9a105ef4/Juq-601hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIgDHLZX9QxTL7Unvd9kVr9"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIgDHLZX9QxTL7Unvd9kVr9"},
+{"name":"SHKD-951mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အရမ်းချစ်စရာကောင်းတဲ့ကျောင်းသူလေး ရှယ်ဖြိုခံလိုက်ရတဲ့ ဇာတ်လမ်း
+မင်းသမီးနာမည် Hana Shirato",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/shk/shkd00951/playlist.m3u8",
+"download":"https://www.mediafire.com/file/9ppd7bxoxwoac3c/Shkd-951sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-21_01-13-01-844.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/shkd00951/shkd00951pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/shkd00951/shkd00951jp-10.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/shkd00951/shkd00951jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/shkd00951/shkd00951jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/fig0vfip9c61vwc/SHKD-951hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miI7/f/h6qWKoho2qwxfjGHj"}]
