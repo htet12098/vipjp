@@ -1575,4 +1575,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/shkd00951/shkd00951jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/fig0vfip9c61vwc/SHKD-951hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miI7/f/h6qWKoho2qwxfjGHj"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miI7/f/h6qWKoho2qwxfjGHj"},
+{"name":"WAAA-139mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဈေး၀ယ်သူမရှိတာနဲ့ မန်နေဂျာရဲ့ လိုးချင်းကိုခံရတဲ့ ပေပီလေး
+မင်းသမီးနာမည် Tsubomi Tsubomi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/w/waa/waaa00139/playlist.m3u8",
+"download":"https://www.mediafire.com/file/o4ofgatnmqk9xci/Waaa-139sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-21_23-23-52-371.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/waaa00139/waaa00139pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240321_232308.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/waaa00139/waaa00139jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/waaa00139/waaa00139jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/fe5gf68l2qprxjk/WAAA-139hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIwPmQKIQ14ylys6BZZ/liK"}]
