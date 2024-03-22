@@ -1589,4 +1589,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/waaa00139/waaa00139jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/fe5gf68l2qprxjk/WAAA-139hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIwPmQKIQ14ylys6BZZ/liK"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIwPmQKIQ14ylys6BZZ/liK"},
+{"name":"SSIS-314mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိထွေးရဲ့ အလှအပတွေအောက်ကျရှုံး
+မင်းသမီးနာမည် Saki Okuda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00314/playlist.m3u8",
+"download":"https://www.mediafire.com/file/tpop66ka66alto7/Ssis-314sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-23_00-03-02-504.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00314/ssis00314pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00314/ssis00314jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00314/ssis00314jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00314/ssis00314jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/buk7rr3gfjlwxie/SSIS-314hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
