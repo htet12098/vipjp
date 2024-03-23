@@ -1610,12 +1610,12 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 အရမ်းမိုက်ပါတယ်
 မင်းသမီးနာမည် Rena Kodama",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/u/ure/ure00075/playlist.m3u8",
-"download":"",
+"download":"https://www.mediafire.com/file/uutwfipxf8o2byx/Ure-075sd.mp4/file",
 "photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-23_21-47-02-769.jpg",
-"photo2":"https://pics.dmm.co.jp/digital/video/ure00075/ure00075jp-1.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ure00075/ure00075pl.jpg",
 "photo3":"https://pics.dmm.co.jp/digital/video/ure00075/ure00075jp-1.jpg",
 "photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240323_195038.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/ure00075/ure00075jp-9.jpg",
-"dapp":"t",
+"dapp":"https://www.mediafire.com/file/gkb2litosiwk859/Ure-075hd.mp4/file",
 "candownload":"",
 "wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIMhvl0U9QarLtqSwlzJgG6"}]
