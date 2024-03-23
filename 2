@@ -1603,4 +1603,19 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00314/ssis00314jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/buk7rr3gfjlwxie/SSIS-314hd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"URE-075mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆရာမကိုအကြပ်ကိုင်ပြီး ရှယ်တီးတဲ့ဇာတ်လမ်း
+အရမ်းမိုက်ပါတယ်
+မင်းသမီးနာမည် Rena Kodama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/u/ure/ure00075/playlist.m3u8",
+"download":"",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-23_21-47-02-769.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ure00075/ure00075jp-1.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ure00075/ure00075jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240323_195038.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ure00075/ure00075jp-9.jpg",
+"dapp":"t",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIMhvl0U9QarLtqSwlzJgG6"}]
