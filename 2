@@ -1618,4 +1618,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ure00075/ure00075jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/gkb2litosiwk859/Ure-075hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIMhvl0U9QarLtqSwlzJgG6"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIMhvl0U9QarLtqSwlzJgG6"},
+{"name":"SSIS-338mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမရှိပေမယ့်လည်း Mikami ရဲ့အလှမှာ ကျရှုံး
+မင်းသမီးနာမည် Yua Mikami",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00338/playlist.m3u8",
+"download":"https://www.mediafire.com/file/9l1wyo3o0qc5mew/Ssis-338sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-25_11-57-05-917.png",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00338/ssis00338pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00338/ssis00338jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00338/ssis00338jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00338/ssis00338jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/ilrug6w71g55sfe/SSIS-338hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIsHOgen5KyrxF/IAKZBAfo"}]
