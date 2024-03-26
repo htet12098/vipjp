@@ -1632,4 +1632,22 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00338/ssis00338jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/ilrug6w71g55sfe/SSIS-338hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIsHOgen5KyrxF/IAKZBAfo"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIsHOgen5KyrxF/IAKZBAfo"},
+{"name":"JUQ-605mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းရဲ့ မိန်းမကို ရှယ်တီးတဲ့ဇာတ်လမ်း
+အချစ်ဆုံးသူငယ်ချင်းကိုယုံမိလို့ နောင်တရသွားခဲ့ရလေပီ
+
+ဒီလမှထွက်ရှိလာတဲ့ စပယ်ရှယ်ကားလေးပါ 
+မင်းသမီးကိုသာရှိုးလိုက်တော့
+မင်းသမီးနာမည် Hikari Azusa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00605/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9pzdJlb4JffJZyRqbBazXy7snq15k8PvQfupbHA5B/ieUxQfsquWfbfBNLuPMgF9jwXV8G64nG7poSAXkQ3mDBuE=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-26_16-58-20-794.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00605/juq00605pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240326_165013.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240326_164534.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240326_164855.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p6Ycz+mPhntblCuaqlTlBbrn5ccnQBJ55M4sUcr+zzLrfOQZPOZl7sG3swTpHTZbHERyLUIw296tzB4Mj0MuzwE=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLEdocTmcRzU3CDgslxlpbj"}]
