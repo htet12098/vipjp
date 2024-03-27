@@ -1650,4 +1650,19 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240326_164855.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p6Ycz+mPhntblCuaqlTlBbrn5ccnQBJ55M4sUcr+zzLrfOQZPOZl7sG3swTpHTZbHERyLUIw296tzB4Mj0MuzwE=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLEdocTmcRzU3CDgslxlpbj"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLEdocTmcRzU3CDgslxlpbj"},
+{"name":"DLDSS-154mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်ကားလေးထဲမှာတော့ ထုံးစံအတိုင်း အထက်လူကြီး မမရယ် မောင်လေးရယ် အလုပ်နဲ့ခရီးထွက်ရင်း ဟိုတယ်တခန်းထဲမှာတည်းမိရာကနေစတဲ့ ဇာတ်လမ်းလေးပါပဲ…..
+ သရုပ်ဆောင်ကောင်းပြီး လှလွန်းတဲ့ မင်းသမီးလေးကြောင့် ပရိသတ်ကြီး ကျေနပ်မှုအပြည့်ရစေမဲ့ ဇာတ်လမ်းလေးတော့ဖြစ်နေဆဲပါပဲ…
+မင်းသမီးနာမည် Suzume Mino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1dl/1dldss154/playlist.m3u8",
+"download":"https://www.mediafire.com/file/pz3z69vbapaveow/Dldss-154sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-28_00-30-37-833.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1dldss00154/1dldss00154pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1dldss00154/1dldss00154jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1dldss00154/1dldss00154jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1dldss00154/1dldss00154jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/hmmqtztzu6p25ch/DLDSS-154hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIPfAUzskIg7ZpyHmG29/nYMzimBh4mr5Yi+rqOIZk6Hw=="}]
