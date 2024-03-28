@@ -1665,4 +1665,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1dldss00154/1dldss00154jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/hmmqtztzu6p25ch/DLDSS-154hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIPfAUzskIg7ZpyHmG29/nYMzimBh4mr5Yi+rqOIZk6Hw=="}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIPfAUzskIg7ZpyHmG29/nYMzimBh4mr5Yi+rqOIZk6Hw=="},
+{"name":"ROE-183mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငယ်ငယ်တည်းကသံယောဇဥ်နဲ့ အဒေါ်ဖြစ်သူကိုဖောင်းဒိုင်းချင်နေတဲ့ Micchan ဆိုတဲ့ကောင်လေးတစ်ယောက် အကြောင်း....
+မင်းသမီးနာမည် Kiyoka Toyosaki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00183/playlist.m3u8",
+"download":"https://www.mediafire.com/file/skvhxdik7igcq3c/Roe-183sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-28_22-21-58-931.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00183/roe00183pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/roe00183/roe00183jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/roe00183/roe00183jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/roe00183/roe00183jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/ztyp8rx3konq70f/ROE-183hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
