@@ -1679,4 +1679,19 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/roe00183/roe00183jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/ztyp8rx3konq70f/ROE-183hd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"NSFS-071mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယာကူဇာအဖွဲ့ နယ်မြို့လေးမှာ တည်းခိုခန်းတည်းခဲ့ကြတယ်
+ညအတွက် အဖော်ကောင်မလေးရှာခိုင်းတာ ဘယ်မှာမှ ရှာမရလို့ ပိုင်ရှင်ရဲ့မိန်းမကိုပဲ အရက်ငှဲ့ခိုင်းရာကနေ
+မင်းသမီးနာမည် Iori Nanase",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nsf/nsfs071/playlist.m3u8",
+"download":"https://www.mediafire.com/file/l4dk5lji3wrk4an/Nsfs-071sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-29_23-20-50-857.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsfs00071/nsfs00071pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsfs00071/nsfs00071jp-7.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsfs00071/nsfs00071jp-18.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsfs00071/nsfs00071jp-14.jpg",
+"dapp":"https://www.mediafire.com/file/qrzxcv5f96i46hp/NSFS-071hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJeSUp2zTOHK7IvKTOzGt25"}]
