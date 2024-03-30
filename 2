@@ -1694,4 +1694,19 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/nsfs00071/nsfs00071jp-14.jpg",
 "dapp":"https://www.mediafire.com/file/qrzxcv5f96i46hp/NSFS-071hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJeSUp2zTOHK7IvKTOzGt25"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJeSUp2zTOHK7IvKTOzGt25"},
+{"name":"JUQ-585mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မန်နေဂျာရဲ့ လက်အောက်ငယ်သား ကျော်ကြီးက မိန်းမစိတ်မဝင်စားဘူးဆိုလို့ ဇနီးနဲ့စိတ်ချလက်ချ ထားခဲ့မိပါတယ်
+ဘာတွေဆက်ဖြစ်မလဲ...
+မင်းသမီးနာမည် Rei Kimura",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00585/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p+iQfbbtnWU+LYtvR49xTsbS8do5lCpiyXDGrPWx5v5LLSUDSPcqpALAAxudSyKZ8Ie50Cb+2AZIOPh8NDHNTkQ=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-03-30_22-28-59-089.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00585/juq00585pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00585/juq00585jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00585/juq00585jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00585/juq00585jp-4.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p82W9z/4bHCgtjv0jIlW2WSDEkGOPbg72JHL9DXkem/sQHsP2ho3LtgwS//5eTIPpwSVNv4M3IjAsLcHtxk7CsY=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIkN+J8a4ps6TOpwhHGvhGm"}]
