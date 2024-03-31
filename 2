@@ -1709,4 +1709,19 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00585/juq00585jp-4.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p82W9z/4bHCgtjv0jIlW2WSDEkGOPbg72JHL9DXkem/sQHsP2ho3LtgwS//5eTIPpwSVNv4M3IjAsLcHtxk7CsY=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIkN+J8a4ps6TOpwhHGvhGm"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIkN+J8a4ps6TOpwhHGvhGm"},
+{"name":"JUL-850mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စာသင်ပေးခဲ့တဲ့ ကျောင်းသားကို ယောကျာ်းမသိအောင် ကုန်းပေးလိုက်တဲ့ ဆရာမအလန်းလေး
+ကျောင်းသားလေးကလည်း ဆရာမအလန်းလေးကိုချွေချက်ပဲ
+မင်းသမီးနာမည် Ayaka Mutou",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00850/playlist.m3u8",
+"download":"https://www.mediafire.com/file/6x41kwo0bopyd1o/Jul-850sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-01_00-05-47-693.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00850/jul00850pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00850/jul00850jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00850/jul00850jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00850/jul00850jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/pjrsx2zc6a52tav/JUL-850hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIp+PXZd7YzxhGpD4T2MUSZ"}]
