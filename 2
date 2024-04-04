@@ -1755,4 +1755,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00588/atid00588jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/qv6mvctdv94ti9p/Atid-588hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLRb0H/sRCe6qRwOMJxwjDs"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLRb0H/sRCe6qRwOMJxwjDs"},
+{"name":"MVSD-578mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ထိစာလာသင်ပေးတဲ့ သားဖြစ်သူရဲ့ ကျူရှင်ဆရာမ သဘောကောင်းသူလေးကို ဆေးခပ်ပီးဘုတဲ့ ဒယ်ဒီ
+မင်းသမီးနာမည် Mei Itsukaichi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mvs/mvsd00578/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p33JQHzBBE2mGv+YwNESWCQiCmAsxUFg2phrh1dUY1FObXk128ab1oqgByv6TKA4kqCXXMOXusdRP7cobCPV++w=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-05_00-55-51-648.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mvsd00578/mvsd00578pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240405_005307.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mvsd00578/mvsd00578jp-3.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240405_005227.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p6Ycz+mPhntblCuaqlTlBbq5zxVPH57opkCNTumBcD+t0SIb3Ahb2nDQF7QGTAQjB4Rp56ovXBKv7PFJexMFnjw=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKkIgdbKglerUoFDda4dpgZ"}]
