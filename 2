@@ -1755,4 +1755,4 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00588/atid00588jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/qv6mvctdv94ti9p/Atid-588hd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLRb0H/sRCe6qRwOMJxwjDs"}]
