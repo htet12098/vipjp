@@ -1769,4 +1769,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240405_005227.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p6Ycz+mPhntblCuaqlTlBbq5zxVPH57opkCNTumBcD+t0SIb3Ahb2nDQF7QGTAQjB4Rp56ovXBKv7PFJexMFnjw=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKkIgdbKglerUoFDda4dpgZ"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKkIgdbKglerUoFDda4dpgZ"},
+{"name":"JUQ-610mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမကမကျွေးလို့ ယောက္ခမကို တက်ချတဲ့ သမက်လိမ္မာလေး..
+မင်းသမီးနာမည် Ayaka Mutou",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00610/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p10xxW/rP+yimzAA22UaDSVycG2d7sYVeFWb7HSH29bwzTN0e97AdDN+lz8qKeZ6klrAYAQ2+T9v3vl2qJv1Py8=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-06_00-30-39-273.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00610/juq00610pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240406_002120.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240406_002359.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240406_002227.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p8GIGd8cki/X6G2adkhNOtmrqJJg//GCJCwDdVSRJoyGBTrwBxvJ0y8XKWnxr+AuE7bAJ30VN+orPqU/5FgP2v4=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJAglte4+i5Vcl6DliMk6ea"}]
