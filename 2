@@ -1783,4 +1783,22 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240406_002227.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p8GIGd8cki/X6G2adkhNOtmrqJJg//GCJCwDdVSRJoyGBTrwBxvJ0y8XKWnxr+AuE7bAJ30VN+orPqU/5FgP2v4=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJAglte4+i5Vcl6DliMk6ea"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJAglte4+i5Vcl6DliMk6ea"},
+{"name":"FPRE-038mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်္ဂလာဆောင်ခါနီးစုံတွဲကို ကုမ္ပဏီသူဌေးက
+ဂုဏ်ပြုတဲ့အနေနဲ့ ညအိပ်ပျော်ပွဲစားခရီး သုံးရက် စီစဉ်ပေးလိုက်ပါတယ်
+ဒီခရီးစဉ်မှာ ကောင်လေးက အလုပ်များလို့ မလိုက်ဖြစ်တော့တဲ့အခါ သတို့သမီးလောင်းလေး တဲစုတ်လေးထဲမှာပါကင်ဖောက်ခံလိုက်ရတဲ့ဇာတ်လမ်း
+
+ဒီလမှ ထွက်ရှိလာတဲ့ စပယ်ရှယ်ကားလေးပါ မင်းသမီးဥပဓိရုပ်နဲ့တင် သုံးရက်လောက်‌လောင်တီးသွားမယ် 
+မင်းသမီးနာမည် Hinata Tachibana",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/f/fpr/fpre00038/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9px+dDjsPbWBT/u9n6sdgUVNIB2IoDmP1ajWG3ndsM/QQ/W7wmMcRzvpyG2cN9B5kIOZBJe5jYDEiVNGQP9IFO4g=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-08_00-50-22-929.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/fpre00038/fpre00038pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240408_001646.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240408_001913.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240408_002146.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p0vM0gReHlBwaRQ0va7eEHeemHsTqyddxDxdNjq8Kx81kOU/hIb2t11Q6SVKP1QAu1zQ6q1f1zBi38EjIzCABgA=",
+"candownload":"lI",
+"wcode":"တစ်"}]
