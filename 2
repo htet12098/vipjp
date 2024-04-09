@@ -1817,4 +1817,19 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240408_234714.jpg",
 "dapp":"https://www.mediafire.com/file/1ew2otvqg15lxf1/Juq-295hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIfA6Fc65tUGNsweO3FjJMy"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIfA6Fc65tUGNsweO3FjJMy"},
+{"name":"MIDV-674mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လက်အောက်ငယ်သားဝန်ထမ်းက ဇနီးချောချောလေးရထားတာကို မနာလိုဖြစ်နေတဲ့ ဂျာကြီး..
+သူများမိန်းမကို ရှယ်တီးတဲ့ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Nana Yagi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00674/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p3uFwALmJx41rkGiXclFEjPJbqPvT1kVAZXlXkV9It3t+payaOJNfn/rv8cxWfe7uoYVRV2E1bSW5AAUwulhME4=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-10_00-58-55-375.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00674/midv00674pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240410_003206.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240410_002022.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240410_002536.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p5csKU2OW/xFoqKRah+9XLGE5pEvz/87VVXXVizWZzvrBrWp8M76+mpydbqnX9asQdkGKqI9QQTBr+7OKziYh0c=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJJeS17V55S1kySk7TMN7Hd"}]
