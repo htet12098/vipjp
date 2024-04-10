@@ -1832,4 +1832,19 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240410_002536.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p5csKU2OW/xFoqKRah+9XLGE5pEvz/87VVXXVizWZzvrBrWp8M76+mpydbqnX9asQdkGKqI9QQTBr+7OKziYh0c=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJJeS17V55S1kySk7TMN7Hd"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJJeS17V55S1kySk7TMN7Hd"},
+{"name":"JUQ-491mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီကားထဲမှာတော့ မိန်းကလေးနှစ်ယောက်သဲသဲတုန်အောင် ဝိုင်းပြီးအချစ်ခံရတဲ့ဆရာတစ်ယောက်ရဲ့အကြောင်းပုံဖော် ထားတာပါ။
+စော်ကြည်ဘဲတစ်ယောက်ရဲ့ ဒုက္ခ ဘယ်လောက် ခံစားရခက်လဲဆိုတာ ကွက်ကွက်ကွင်းကွင်း မြင်တွေ့ရမယ့် ဇာတ်ကားကောင်းလေးတစ်ကားဖြစ်ပါတယ်
+မင်းသမီးနာမည် Sakura Kurumi/Ayame Nogi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00491/playlist.m3u8",
+"download":"https://www.mediafire.com/file/1ycqm29hxuewq28/Juq-491sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-10_22-12-38-979.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00491/juq00491pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00491/juq00491jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00491/juq00491jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00491/juq00491jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/yblxqwaskhtqjew/JUQ-491hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKw3ogA2IrfWfYaKrWGnrBD"}]
