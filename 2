@@ -1847,4 +1847,20 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00491/juq00491jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/yblxqwaskhtqjew/JUQ-491hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKw3ogA2IrfWfYaKrWGnrBD"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKw3ogA2IrfWfYaKrWGnrBD"},
+{"name":"IPZZ-252mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေက နောက်အိမ်ထောင်ပြုလိုက်တော့ ပထွေးတစ်ယောက်ရလာခဲ့ပါတယ်
+ပထွေးက သူမ ထင်ထားသလို ‌သဘောကောင်းသူမဟုတ်တော့ အပျိုဘဝလေးကို ပထွေးလက်ချက်မမိအောင်ထိန်းသိမ်းနိုင်ပါ့မလား...
+ပ‌ထွေးနဲ့ မယားပါသမီးချောလေးတို့ရဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Rio Asahi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipz/ipzz00252/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p2Ii3B8/jaAqdHB0rVRKkXfRbkq1cqEkvExpphSzh+WowpGl3B0A+AIOa5Kc3m4TD6d+XQ8bBX5c8G0jE5NWwxE=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-11_23-45-13-757.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipzz00252/ipzz00252pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240411_232722.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240411_232159.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipzz00252/ipzz00252jp-8.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p9ZqfeWjH0nWxkWh/puC5ow1IJPyOLWkvxR6meKsbqZbE0FW/8PJaN4oHReGfGrwVMuXPzl2+BewEnFjShT/gnw=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKiZrz6x641IDKEzmyZ+jKe"}]
