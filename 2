@@ -1863,4 +1863,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ipzz00252/ipzz00252jp-8.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p9ZqfeWjH0nWxkWh/puC5ow1IJPyOLWkvxR6meKsbqZbE0FW/8PJaN4oHReGfGrwVMuXPzl2+BewEnFjShT/gnw=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKiZrz6x641IDKEzmyZ+jKe"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKiZrz6x641IDKEzmyZ+jKe"},
+{"name":"JUQ-620mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အခမဲ့ အနှိပ်ခံခွင့်လက်မှတ်ရလို့ သွားပြီးအနှိပ်ခံမိတာ ဘဝပျက်ဖို့ဖြစ်သွားတဲ့ ဇာတ်ကားလေးဖြစ်ပါတယ်
+မင်းသမီးနာမည် Rei Kimura",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00620/playlist.m3u8",
+"download":"https://www.mediafire.com/file/qsbcpzqbn1h4wxj/Juq-620sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-13_00-45-50-537.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00620/juq00620pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240413_004224.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240413_004250.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240413_004339.jpg",
+"dapp":"https://www.mediafire.com/file/g1mzubrqvf0z3c2/JUQ-620hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
