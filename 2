@@ -1877,4 +1877,21 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240413_004339.jpg",
 "dapp":"https://www.mediafire.com/file/g1mzubrqvf0z3c2/JUQ-620hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLT5ocF16VErlacrG203dIJ"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLT5ocF16VErlacrG203dIJ"},
+{"name":"JUY-653mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီဇာတ်လမ်းလေးကတော့ Hanayagi Anna / Kashiwagi Konatsနဲ့Mitake Yuunauတို့မင်းသမီး
+သုံးလက် အရမ်းကိုချောမောလှပတဲ့မင်းသားလေး
+တစ်ယောက်ကိုမင်းသမီးသုံးယောက်အပြိုင်ဝိုင်းပြီး
+ဝုန်းဒိုင်းကြဲကြမယ့်ဇာတ်လမ်းကောင်းလေးတစ်ပုဒ်
+မင်းသမီးနာမည် Ayane Haruka",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/juy/juy00653/juy00653_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/gz6fc15dlpdv8ed/Juy-653sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-14_01-36-06-943.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juy00653/juy00653pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juy00653/juy00653jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juy00653/juy00653jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juy00653/juy00653jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/klt4wlyez2la7pr/Juy-653hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIPHVDBmYP/BvOruRRSC/0i"}]
