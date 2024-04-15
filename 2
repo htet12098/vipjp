@@ -1894,4 +1894,18 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juy00653/juy00653jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/klt4wlyez2la7pr/Juy-653hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIPHVDBmYP/BvOruRRSC/0i"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIPHVDBmYP/BvOruRRSC/0i"},
+{"name":"EBWH-064mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်းသမီးအလန်းစား သုံးလက်တောင်ပါတာဟေ့ မိုက်ချက်
+မင်းသမီးနာမည် Konatsu Kashiwagi/ Yuna Mitake /Anna Hanayagi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/e/ebw/ebwh00064/playlist.m3u8",
+"download":"https://www.mediafire.com/file/z0d3mexr890fo55/Ebwh-064sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-15_23-33-33-708.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ebwh00064/ebwh00064pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ebwh00064/ebwh00064jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ebwh00064/ebwh00064jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ebwh00064/ebwh00064jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/jmvgkqt67ldbv6u/Ebwh-064hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIBuX8AfbUsfgzSI6alpr4p"}]
