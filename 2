@@ -1908,4 +1908,20 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ebwh00064/ebwh00064jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/jmvgkqt67ldbv6u/Ebwh-064hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIBuX8AfbUsfgzSI6alpr4p"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIBuX8AfbUsfgzSI6alpr4p"},
+{"name":"NSFS-271mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဓာတ်ပုံရိုက်တဲ့ကားလေး တောင်းဆိုမှုများနေလို့ တင်ပေးလိုက်ပါတယ်
+ကြိတ်ကြွေနေရတဲ့ကောင်မလေးက ဝန်ထမ်းနဲ့ညားသွားလို့ စားမဝင် အိပ်မပျော်ဖြစ်နေခဲ့တဲ့ သူဌေး ...
+ဒီကားက ဆင်ဆာလျော့မထွက်ပါဘူး
+မင်းသမီးနာမည် Minaho Ariga",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nsf/nsfs00271/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p9UL8W+ei6mtaWrSGBQdzcmAH5YKMk/EbxavJKwBQBFGTQLZDv5syylXBRW9fOy7B7IemK0+sZaZXuKw3C5R0Y4=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-16_23-06-01-045.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsfs00271/nsfs00271pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240416_223731.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240416_223507.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsfs00271/nsfs00271jp-10.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p82W9z/4bHCgtjv0jIlW2WRM7lzWJ8OCLf0WSVWYb5VeTDk1P2z08cxn424Z1AT1vME5nw9ailFBespDPy3gGkU=",
+"candownload":"lI",
+"wcode":"တစ်"}]
