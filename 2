@@ -1941,4 +1941,4 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240418_004437.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p0vM0gReHlBwaRQ0va7eEHdXmPjURZbgMN7LlTKfwejhqPTeCOc1wPRy2Dmc55SdFqkXESsCrZ/hHNb3IAmiWJQ=",
 "candownload":"lI",
-"wcode":"တစ်"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKSxmLL15fshmO3vHw5Exom"}]
