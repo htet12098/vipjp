@@ -1924,4 +1924,21 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/nsfs00271/nsfs00271jp-10.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p82W9z/4bHCgtjv0jIlW2WRM7lzWJ8OCLf0WSVWYb5VeTDk1P2z08cxn424Z1AT1vME5nw9ailFBespDPy3gGkU=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJDbZCzTSZIBjoKd3JDaL/C"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJDbZCzTSZIBjoKd3JDaL/C"},
+{"name":"JUQ-572mmsub",
+"info":"မြန်မာစာတန်းထိုး
+2024 ထွက်စပယ်ရှယ်ကားလေးတွေလာပါပီ
+အိမ်ထောင်သက်ကြာလာတဲ့အခါ ခင်ပွန်းက ဇနီးဖြစ်သူကိုအရမ်းဝတယ်ဆိုပြီး ငြိုငြင်လာခဲ့ပါတယ်
+ဒါကြောင့် ခင်ပွန်းရဲ့နှလုံးကိုပြန်ရယူဖို့ ကစ်ဘောက်ဆင် သင်တန်းသွားတက်ရာနေ
+နည်းပြနဲ့ရင်ဆိုင်လိုက်ရတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00572/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9pz5ADDw7mBvQTN3bh6tDI42GO/jHTvVZlF+3a7z6MypDi3+L2aDmNu8YH7ifwQUxnSLIk9FCXtdSJ5Dl2ZsZ/KI=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-18_00-53-20-691.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00572/juq00572pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240418_004300.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240418_004157.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240418_004437.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p0vM0gReHlBwaRQ0va7eEHdXmPjURZbgMN7LlTKfwejhqPTeCOc1wPRy2Dmc55SdFqkXESsCrZ/hHNb3IAmiWJQ=",
+"candownload":"lI",
+"wcode":"တစ်"}]
