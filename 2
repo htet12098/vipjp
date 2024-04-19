@@ -1941,4 +1941,20 @@ Miss ပြိင်ပွဲမှာဆုရခဲ့တဲ့ ဝါကာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240418_004437.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p0vM0gReHlBwaRQ0va7eEHdXmPjURZbgMN7LlTKfwejhqPTeCOc1wPRy2Dmc55SdFqkXESsCrZ/hHNb3IAmiWJQ=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKSxmLL15fshmO3vHw5Exom"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miKSxmLL15fshmO3vHw5Exom"},
+{"name":"JUQ-487mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သားရဲ့ သူငယ်ချင်းချာတိတ်လေးကို အယားပြေမယ်အထင်နဲ့ ဆွဲစားလိုက်တာ 
+အဲဒီကောင်က ဒစ်ကြီးပီး အလိုးသန်တော့ အန်တီကြီးထွက်ပါပြေးနေရတဲ့ဇာတ်လမ်း..
+အရမ်းကောင်းပါတယ်
+မင်းသမီးနာမည် Miki Akai",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00487/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p33JQHzBBE2mGv+YwNESWCSaQjmtPBTzYM64+rWpGqcXcSj0EXlaIvpvk4XUuC3KmGo3xTGsot92BICVZMUX5IM=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-19_21-24-45-252.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00487/juq00487pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240419_212227.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240419_202600.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240419_202343.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9pzdJlb4JffJZyRqbBazXy7tpIZte08dOWhFG8/BeMy9zjROY99yhcpXPTVdP3kclnFsF5pMXqqg3gcZDXGB9t2A=",
+"candownload":"lI",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJ6F9Kb2aXWtLSmXcXRrgak"}]
