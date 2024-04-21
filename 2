@@ -1974,4 +1974,34 @@ Itoဆိုတဲ့ဥပဒေကျောင်းသူလေး..နော
 "photo5":"https://pics.dmm.co.jp/digital/video/cawd00639/cawd00639jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/x8r01ckpf77xm7k/cawd-639hd.mp4/file",
 "candownload":"",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miK+dMWoeQxMGslIoUhF2l+u"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miK+dMWoeQxMGslIoUhF2l+u"},
+{"name":"JUQ-562mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Yuka Mizuno ဟာ မြို့လေးတစ်မြို့ရဲ့သာမန်ဆင်ခြေဖုံးရပ်ကွက်လေးထဲမှာနေထိုင်ပြီးသာမန်မိသားစုဘဝလေးကိုတည်ဆောက်ထားသူလေးပေါ့
+တစ်နေ့မှာတော့ ပျက်နေတဲ့အအေးပေးစက်ကြီးကိုပြင်ဖို့အတွက် စက်ပြင်ဆရာလေးကိုလှမ်းခေါ်ပါတယ်...
+မင်းသမီးနာမည် Yuka Tada",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00562/playlist.m3u8",
+"download":"https://www.mediafire.com/file/3adln00gfw2y9o8/Juq-562sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-22_00-30-14-644.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00562/juq00562pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00562/juq00562jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00562/juq00562jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00562/juq00562jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/kgnam1cwutglfi1/JUQ-562hd.mp4/file",
+"candownload":"",
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miJltYyBgQe1bY7YRFfblXQH"},
+{"name":"FPRE-034mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖေနောက်အိမ်ထောင်ပြုတော့ မိထွေးမှာသမီးပျိုလေး တစ်ယောက်ပါလာခဲ့ပါတယ်
+အဖေတို့ဟန်းနီးမွန်းထွက်တုန်း အိမ်မှာကျန်ခဲ့တဲ့ မိထွေးသမီးကို ရှယ်တီးတဲ့ကားလေးပါ
+မင်းသမီးနာမည် Mitsuha Nonose",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/f/fpr/fpre00034/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9p6Ycz+mPhntblCuaqlTlBbpuK8V0wLYdT+9EikTvVML8JP82VF6BRDRYBY1Dq+sXwhmDTiIbXA6alBE3daxi4rc=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-22_01-15-46-543.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/fpre00034/fpre00034pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240422_005049.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240422_004943.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240422_005003.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p9UL8W+ei6mtaWrSGBQdzcm3WYVln0WNEXBTomaOf3Qon4dIrpCNBp6fyxrPpsXOf721GtA9MuS6kjwoUb/I5Ig=",
+"candownload":"lI",
+"wcode":"တစ်"}]
