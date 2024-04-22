@@ -2004,4 +2004,18 @@ Yuka Mizuno ဟာ မြို့လေးတစ်မြို့ရဲ့သ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240422_005003.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p9UL8W+ei6mtaWrSGBQdzcm3WYVln0WNEXBTomaOf3Qon4dIrpCNBp6fyxrPpsXOf721GtA9MuS6kjwoUb/I5Ig=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIke839zlkmhhGl8eH2YwvC"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miIke839zlkmhhGl8eH2YwvC"},
+{"name":"IPX-753mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အစ်မဘဲကို တက်ခွတဲ့ညီမလေး
+မင်းသမီးနာမည် Miu Shiromine",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00753/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ngbl3e960aj4mrj/Ipx-753sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-23_00-45-49-521.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00753/ipx00753pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipx00753/ipx00753jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00753/ipx00753jp-2.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240423_004443.jpg",
+"dapp":"https://www.mediafire.com/file/1s4uzvgf543c07w/Ipx-753hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
