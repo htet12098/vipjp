@@ -2032,4 +2032,4 @@ Yuka Mizuno ဟာ မြို့လေးတစ်မြို့ရဲ့သ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240424_005951.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p9ZqfeWjH0nWxkWh/puC5ozkMvXy1Ms29IRSK1JA49HWzpfOdlRKzzkC1gEGORL++b0MGO9rUwP8jz9jCzlqNZs=",
 "candownload":"lI",
-"wcode":"တစ်"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKdb9CpOF2hmnKsEnodbWN3wWKv4XyjVpsKgl0+Vh7+2m"}]
