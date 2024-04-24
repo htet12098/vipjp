@@ -2032,4 +2032,19 @@ Yuka Mizuno ဟာ မြို့လေးတစ်မြို့ရဲ့သ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240424_005951.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p9ZqfeWjH0nWxkWh/puC5ozkMvXy1Ms29IRSK1JA49HWzpfOdlRKzzkC1gEGORL++b0MGO9rUwP8jz9jCzlqNZs=",
 "candownload":"lI",
-"wcode":"i3itsDN76D4Wp3FFn4HjKdb9CpOF2hmnKsEnodbWN3wWKv4XyjVpsKgl0+Vh7+2m"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKdb9CpOF2hmnKsEnodbWN3wWKv4XyjVpsKgl0+Vh7+2m"},
+{"name":"MIAB-124mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လိင်ဆန္ဒပြင်းပြနေတဲ့သားဖြစ်သူကို ကူညီပေးဖို့ စိတ်ကျန်းမာရေးအထူးအကြံပေး သူငယ်ချင်းကို အကူအညီတောင်းမိတယ်
+လူနာပဲ ကောင်းသွားမလား? ဆရာမကပဲ.....
+မင်းသမီးနာမည် Riasu Mizutani",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miab00124/playlist.m3u8",
+"download":"https://www.mediafire.com/file/6xj01wm6i95zzzp/Miab-124sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P12/main/Picsart_24-04-24_22-53-46-058.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/miab00124/miab00124pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240424_225301.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/miab00124/miab00124jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miab00124/miab00124jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/c5q8tk91wjzong4/MIAB-124hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
