@@ -2047,4 +2047,18 @@ Yuka Mizuno ဟာ မြို့လေးတစ်မြို့ရဲ့သ�
 "photo5":"https://pics.dmm.co.jp/digital/video/miab00124/miab00124jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/c5q8tk91wjzong4/MIAB-124hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-693mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇနီးရဲ့အလှတွေကိုသူငယ်ချင်းကို ကြွားမိရာကနေ အလစ်မှာ ရှယ်တီးသွားတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Fumino Satsuki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00693/playlist.m3u8",
+"download":"wGVEvd9lu7EdHPW+18o9px+dDjsPbWBT/u9n6sdgUVO4JSBTLPvmLMhB767UAERCnaiiuiPFXm9w7ikicD/D3Z9W4xf1rcB57RVyJmPYMdQ=",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p13/main/Picsart_24-04-26_00-54-01-392.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00693/juq00693pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p13/main/IMG_20240426_005227.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p13/main/IMG_20240426_005254.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00693/juq00693jp-3.jpg",
+"dapp":"wGVEvd9lu7EdHPW+18o9p4XRIRRnjkx/cTs/U6Z5qVAd/8Z0rsI6mpQvpsHLdTUsRKx1YXTy8n6P13ooAiSzIaxnOmKBe3cvUkd94LWZVDE=",
+"candownload":"lI",
 "wcode":"တစ်"}]
