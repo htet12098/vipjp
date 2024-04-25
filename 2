@@ -2061,4 +2061,4 @@ Yuka Mizuno ဟာ မြို့လေးတစ်မြို့ရဲ့သ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00693/juq00693jp-3.jpg",
 "dapp":"wGVEvd9lu7EdHPW+18o9p4XRIRRnjkx/cTs/U6Z5qVAd/8Z0rsI6mpQvpsHLdTUsRKx1YXTy8n6P13ooAiSzIaxnOmKBe3cvUkd94LWZVDE=",
 "candownload":"lI",
-"wcode":"တစ်"}]
+"wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLDMfYg5A1g69CE3c6ad0rc"}]
