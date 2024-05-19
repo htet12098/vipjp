@@ -162,4 +162,21 @@ jav လောကရဲ့ ဒဏ္ဍရီလာ ဂျပန်ဂတုံ�
 "dapp":"https://www.mediafire.com/file/q4a6ypwejsibc1g/ANGR-003hd.mp4/file",
 "dmega":"https://megaup.net/48bc98e2407b50cbb60ea674a61def03/ANGR-003hd.mp4",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-695mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရိုးသားတဲ့ကောင်မလေးတစ်ယောက်ဟာ ခင်ပွန်းနဲ့လက်ထပ်ပြီးကတည်းက ဘဝကိုပျော်ရွင်စွာဖြတ်သန်းနေပေမယ့် ပတ်ဝန်းကျင်က အဒေါ်ကြီးတွေက အထင်သေးနိမ့်ချဆက်ဆံလာတဲ့အခါ...
+သည်းမခံနိုင်တဲ့အဆုံး ဘယ်လိုတွေ ကလဲ့စားချေမလဲ
+ရိုးသားတဲ့ကောင်မလေးတစ်ယောက်ရဲ့ ကလဲ့စားကို အားပေးလိုက်ကြရအောင်..
+မင်းသမီးနာမည် Sayuri Hayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00695/juq00695hhb.m3u8",
+"download":"z6saKwLayY6Ivmp3egMH0HWnkp6iBkSvE9My2EZmLZw7LND52h6O7wrt6+vvqDqShbtZlH0oxKFeLxVZ451MS2WbkWKmvC4z/rPGPQQ+T0M=",
+"photo1":"https://i.imghippo.com/files/ChNyt1716130278.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00695/juq00695pl.jpg",
+"photo3":"https://i.imghippo.com/files/5HzfD1716130315.jpg",
+"photo4":"https://i.imghippo.com/files/F4QeA1716130338.jpg",
+"photo5":"https://i.imghippo.com/files/GCRfM1716130357.jpg",
+"dapp":"z6saKwLayY6Ivmp3egMH0O+9vSEi4S2F2KBpoJQRDbCcZCbxK0+pDu0EYVZvffQVPmQ6SiY5HoPQ09w3EnUllWVOAsOzdOVcmxj1bfklGqA=",
+"dmega":"https://megaup.net/94616c8b96b23b52d3aeb15437b59050/Juq-695hd.mp4",
+"candownload":"//",
 "wcode":"တစ်"}]
