@@ -179,4 +179,20 @@ jav လောကရဲ့ ဒဏ္ဍရီလာ ဂျပန်ဂတုံ�
 "dapp":"z6saKwLayY6Ivmp3egMH0O+9vSEi4S2F2KBpoJQRDbCcZCbxK0+pDu0EYVZvffQVPmQ6SiY5HoPQ09w3EnUllWVOAsOzdOVcmxj1bfklGqA=",
 "dmega":"https://megaup.net/94616c8b96b23b52d3aeb15437b59050/Juq-695hd.mp4",
 "candownload":"//",
+"wcode":"တစ်"},
+{"name":"URE-106mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဖေဖေ မေမေ မရှိတော့တဲ့ ကောင်လေးတစ်ယောက်ကို မားမား ကပဲပြုစုပျိုး‌ထောင်ပေးခဲ့ပါတယ်..
+ကောင်လေး အရွယ်ရောက်လာတဲ့အချိန်မှာတော့ မားမားကို ရှယ်တီးဖို့ကြံပါ‌တော့တယ်
+မင်းသမီးနာမည် Sayuri Hayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/u/ure/ure00106/ure00106hhb.m3u8",
+"download":"https://www.mediafire.com/file/1cydtk4ziifdcax/Ure-106sd.mp4/file",
+"photo1":"https://i.imghippo.com/files/op2Xy1716225195.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ure00106/ure00106pl.jpg",
+"photo3":"https://i.imghippo.com/files/0iMmH1716225229.jpg",
+"photo4":"https://i.imghippo.com/files/AJ3BV1716225643.jpg",
+"photo5":"https://i.imghippo.com/files/x5mov1716225254.jpg",
+"dapp":"https://www.mediafire.com/file/n2738vogytak53r/URE-106hd.mp4/file",
+"dmega":"https://megaup.net/8be605ebef02064a9b0642543d0b657e/URE-106hd.mp4",
+"candownload":"",
 "wcode":"တစ်"}]
