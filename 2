@@ -195,4 +195,20 @@ jav လောကရဲ့ ဒဏ္ဍရီလာ ဂျပန်ဂတုံ�
 "dapp":"https://www.mediafire.com/file/n2738vogytak53r/URE-106hd.mp4/file",
 "dmega":"https://megaup.net/8be605ebef02064a9b0642543d0b657e/URE-106hd.mp4",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-652mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သားဖြစ်သူဇနီးမောင်နှံဟာ ကလေးရအောင် အချိန်အတော်ကြာ ကြိုးစားခဲ့ပေမယ့် အရာမထင်ဖြစ်နေခဲ့ပါတယ်
+ဒါကို ယောက္ခထီးက မကြည့်ရက်တော့တဲ့အခါ..
+မင်းသမီးနာမည် Himeka Iori",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00652/juq00652hhb.m3u8",
+"download":"https://www.mediafire.com/file/7foblw0irr3x3jk/Juq-652sd.mp4/file",
+"photo1":"https://i.imghippo.com/files/se3Iy1716309548.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00652/juq00652pl.jpg",
+"photo3":"https://i.imghippo.com/files/Vo2JD1716309574.jpg",
+"photo4":"https://i.imghippo.com/files/PMNG41716309596.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00652/juq00652jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/nw75m4p5vs9gobx/Juq-652hd.mp4/file",
+"dwish":"https://vidhidevip.com/file/1n2k0taqzhyn//wish",
+"candownload":"",
 "wcode":"တစ်"}]
