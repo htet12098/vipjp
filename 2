@@ -227,4 +227,20 @@ Misaki-san ဟာ ယောက်ျားရုတ်တရတ် ရောဂ�
 "dapp":"https://www.mediafire.com/file/1frtga6nzljzn5e/Adn-214Hd.mp4/file",
 "dwish":"https://vidhidevip.com/file/ay5v5sn1zfsr//wish",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"FSDSS-783mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘေးအိမ်က ရည်းစားရှိတဲ့ကောင်မလေးကို ခိုးကြည့်ပြီးနေ့တိုင်းမှန်းထုနေခဲ့တဲ့ကျော်ကြီး
+မှန်းထုရုံနဲ့အားမရတော့တဲ့အခါမှာတော့ ဘာတွေဆက်ဖြစ်မလဲ...
+မင်းသမီးနာမည် Hachimitsu Rin",
+"watch":"",
+"download":"z6saKwLayY6Ivmp3egMH0NkLgu/TllKM/jlyxuVz6F/xtX5XxskBaIoFpvJxchuFn2FOZ9PnZKl/BYNU8OKhTeBt+B1PATIkWagacFJCcp4=",
+"photo1":"https://i.imghippo.com/files/DD3He1716481514.jpg",
+"photo2":"https://cdn.javsts.com/wp-content/uploads/2024/05/FSDSS-783_1200.jpg",
+"photo3":"https://cdn.faleno.net/top/wp-content/uploads/2024/04/DSC_0797.jpg",
+"photo4":"https://i.imghippo.com/files/4aUu51716481548.jpg",
+"photo5":"https://i.imghippo.com/files/Maafe1716481571.jpg",
+"dapp":"z6saKwLayY6Ivmp3egMH0Dmb7QRHLanV0aHXVxyrpvz8WsNWUrbrQArU4BOM74ywdQY+vobGRDNAVMnpcKIjNklS7IXW9fnjjeX8UIbh8jM=",
+"dwish":"https://vidhidevip.com/file/expx8yaylrfy//wish",
+"candownload":"//",
 "wcode":"တစ်"}]
