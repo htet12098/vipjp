@@ -243,4 +243,19 @@ Misaki-san ဟာ ယောက်ျားရုတ်တရတ် ရောဂ�
 "dapp":"z6saKwLayY6Ivmp3egMH0Dmb7QRHLanV0aHXVxyrpvz8WsNWUrbrQArU4BOM74ywdQY+vobGRDNAVMnpcKIjNklS7IXW9fnjjeX8UIbh8jM=",
 "dwish":"https://vidhidevip.com/file/expx8yaylrfy//wish",
 "candownload":"//",
+"wcode":"တစ်"},
+{"name":"JUQ-649mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သမက်က ဒစ်ကြီးလို့ သမီးဖြစ်သူ မခံနိုင်တာကို ကူညီပေးမယ့် ယောက္ခမ..
+မင်းသမီးနာမည် Miki Akai",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00649/juq00649hhb.m3u8",
+"download":"https://www.mediafire.com/file/o396mwg81f3xc1j/Juq-649sd.mp4/file",
+"photo1":"https://i.imghippo.com/files/FJfHi1716568414.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00649/juq00649pl.jpg",
+"photo3":"https://i.imghippo.com/files/EEqIf1716568445.jpg",
+"photo4":"https://i.imghippo.com/files/0mDUr1716568491.jpg",
+"photo5":"https://i.imghippo.com/files/DRjdA1716568511.jpg",
+"dapp":"https://www.mediafire.com/file/4ptqywcl8qgabwv/Juq-649hd.mp4/file",
+"dwish":"https://vidhidepre.com/file/0zso9ouf8iu4//wish",
+"candownload":"",
 "wcode":"တစ်"}]
