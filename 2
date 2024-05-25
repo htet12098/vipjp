@@ -258,4 +258,36 @@ Misaki-san ဟာ ယောက်ျားရုတ်တရတ် ရောဂ�
 "dapp":"https://www.mediafire.com/file/4ptqywcl8qgabwv/Juq-649hd.mp4/file",
 "dwish":"https://vidhidepre.com/file/0zso9ouf8iu4//wish",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-755mmsub",
+"info":"မြန်ုမာစာတန်းထိုး
+ဆရာမ နဲ့ ဆရာဖြစ်သူတို့ နှစ်ယောက်တည်း ကျောင်းလေ့လာရေးခရီးထွက်ခဲ့ကြပါတယ်..
+ဟိုတယ်ရောက်တော့ အခန်းတစ်ခန်းတည်းကျန်တော့တာကြောင့် ဆရာနဲ့အတူ တစ်ခန်းတည်းအတူတူတည်းရတော့မယ့် ဆရာမလေးကို အားပေးလိုက်ပါဦး
+မင်းသမီးနာမည် Sumire Mizukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00755/meyd00755_dm_w.m3u8",
+"download":"https://www.mediafire.com/file/q81wd28cs7qsk76/Meyd-755sd.mp4/file",
+"photo1":"https://i.imghippo.com/files/w68KG1716660374.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00755/meyd00755pl.jpg",
+"photo3":"https://i.imghippo.com/files/D0Atv1716640741.jpg",
+"photo4":"https://i.imghippo.com/files/k57DT1716640770.jpg",
+"photo5":"https://i.imghippo.com/files/epsEr1716640797.jpg",
+"dapp":"https://www.mediafire.com/file/4s13zm4mvsxe374/MEYD-755hd.mp4/file",
+"dwish":"https://vidhidepre.com/file/kbvnuzi3rtgk//wish",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-564mmsub",
+"info":"မြန်ုမာစာတန်းထိုး
+သားဖြစ်သူအလုပ်ကိစ္စနဲ့ ခရီးထွက်တုန်း အိမ်မှာကျန်ခဲ့တဲ့ ချွေးမကို ဆေးခပ်ပီးရှယ်တီးတဲ့ယောက္ခထီး..
+အရမ်းကောင်းတယ်ဗျို့
+မင်းသမီးနာမည် Miu Shiromine",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00564/adn00564hhb.m3u8",
+"download":"https://www.mediafire.com/file/lultfwcm3g32egc/Adn-564sd.mp4/file",
+"photo1":"https://i.imghippo.com/files/iRwIA1716662961.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00564/adn00564pl.jpg",
+"photo3":"https://i.imghippo.com/files/3p6DQ1716663000.jpg",
+"photo4":"https://i.imghippo.com/files/QX9L01716663022.jpg",
+"photo5":"https://i.imghippo.com/files/b6Hrk1716663044.jpg",
+"dapp":"https://www.mediafire.com/file/1rcqo0bdu6u3g7u/ADN-564hd.mp4/file",
+"dwish":"https://vidhidepre.com/file/h75tgpbou63b//wish",
+"candownload":"",
 "wcode":"တစ်"}]
