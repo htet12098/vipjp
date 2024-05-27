@@ -290,4 +290,36 @@ Misaki-san ဟာ ယောက်ျားရုတ်တရတ် ရောဂ�
 "dapp":"https://www.mediafire.com/file/1rcqo0bdu6u3g7u/ADN-564hd.mp4/file",
 "dwish":"https://vidhidepre.com/file/h75tgpbou63b//wish",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"CJOD-392mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖေဖြစ်သူက ကောင်လေးတစ်ယောက်ကို အလုပ်ကိစ္စသွားစရာရှိလို့ အိမ်စောင့်ရှောက်ဖို့မှာထားခဲ့ပါတယ်... 
+အဲ့အချိန်မှာဘဲ ထောင်က ထွက်ပြေးလာတဲ့ ဓားပြမလေးတစ်ယောက် ကောင်လေးအိမ်ရောက်ချလာပြီး သူခနတာ ခိုလှုံဖို့ခြိမ်းခြောက်ကာပြောပါတယ်..
+ဓားပြမလေးက လန်းတော့ ကောင်လေးလည်း ဒုတ်တောင်သွားပြီး ဓားပြမကလည်းဒါကို သတိထားမိသွားတဲ့အခါ ဘာတွေဆက်ဖြစ်ကြမလဲဆိုတာကတော့...
+မင်းသမီးနာမည် Yuki Takeuchi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/c/cjo/cjod00392/cjod00392hhb.m3u8",
+"download":"https://www.mediafire.com/file/kiliba4ulua9wju/Cjod-392sd.mp4/file",
+"photo1":"https://i.imghippo.com/files/1xzif1716832033.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/cjod00392/cjod00392pl.jpg",
+"photo3":"https://i.imghippo.com/files/gUp5p1716832063.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/cjod00392/cjod00392jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/cjod00392/cjod00392jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/7yis4fao431vp33/CJOD-392hd.mp4/file",
+"dwish":"https://vidhidepre.com/file/x00o9eimq88r//wish",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"NSFS-239mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းဖြစ်သူရဲ့ကုမ္ပဏီကိုကယ်တင်ဖို့ ဘာတွေပေးဆပ်လိုက်ရမလဲ
+မင်းသမီးနာမည် Ena Satsuki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nsf/nsfs00239/nsfs00239mhb.m3u8",
+"download":"z6saKwLayY6Ivmp3egMH0CqOoyGkr3NIHLvLTDZExg3cRAbzaQ7Ffwk0PYJoQ97elr3JGoOUBd43KzNYyEqBgfdLmdAAkPt0GCYaHrJQENc=",
+"photo1":"https://i.imghippo.com/files/0xDXt1716835604.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsfs00239/nsfs00239pl.jpg",
+"photo3":"https://i.imghippo.com/files/8kDUM1716835659.jpg",
+"photo4":"https://i.imghippo.com/files/7E6Ri1716835711.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsfs00239/nsfs00239jp-2.jpg",
+"dapp":"z6saKwLayY6Ivmp3egMH0HWnkp6iBkSvE9My2EZmLZzrvxJyagQSTpAjS4At6IGgTNjCo6V7CVCP21AHE2PSj0ZEAbvT5Re8OlnX1X+9G58=",
+"candownload":"//",
+"dwish":"https://vidhidepre.com/file/mdhjcx9e8pne//wish",
 "wcode":"တစ်"}]
