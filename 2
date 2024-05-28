@@ -322,4 +322,20 @@ Misaki-san ဟာ ယောက်ျားရုတ်တရတ် ရောဂ�
 "dapp":"z6saKwLayY6Ivmp3egMH0HWnkp6iBkSvE9My2EZmLZzrvxJyagQSTpAjS4At6IGgTNjCo6V7CVCP21AHE2PSj0ZEAbvT5Re8OlnX1X+9G58=",
 "candownload":"//",
 "dwish":"https://vidhidepre.com/file/mdhjcx9e8pne//wish",
+"wcode":"တစ်"},
+{"name":"JUQ-682mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Naoဆိုတဲ့ ကောင်မလေးဟာ သူ့ခင်ပွန်းဖြစ်သူနဲ့ အမြဲအဆင်မပြေဖြစ်နေတဲ့အတွက်အိမ်ထောင်ရေးမသာမယာဖြစ်နေချိန် 
+Yuki ဆိုတဲ့ မနူးမနပ်ကောင်လေးနဲ့ အမှတ်မထင်တွေ့ခဲ့ပါတယ်
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00682/juq00682hhb.m3u8",
+"download":"https://www.mediafire.com/file/p3dsz1ll7cjov3v/Juq-682sd.mp4/file",
+"photo1":"https://i.imghippo.com/files/53uzn1716908387.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00682/juq00682pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00682/juq00682jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00682/juq00682jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00682/juq00682jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/c9h0huxpkhvbip6/JUQ-682hd.mp4/file",
+"dwish":"https://vidhidepre.com/file/iabsibkfu13w//wish",
+"candownload":"",
 "wcode":"တစ်"}]
